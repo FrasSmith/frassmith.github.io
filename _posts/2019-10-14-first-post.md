@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Fit the First
-snippet: This is a post snippet. You can use it to write a optional brief summary of your post.
-tags: [post]
+title: Monday, October 14, 2019
+author: Fraser Smith
+tags: [journal, daily]
 ---
-## Fit the First
 
-First past the post
+Parchment seems to be a useful template for a github web page.

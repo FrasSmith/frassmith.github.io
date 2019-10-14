@@ -6,8 +6,8 @@
 $accent: #336699;
 $image-size: 100px;
 
-$max-width: 740px;
-$med-width: 600px;
+$max-width: 960px;
+$med-width: 720px;
 $small-width: 480px;
 
 // Basic
@@ -88,15 +88,32 @@ code {
     max-width: 500px;
     color: #272727;
     display: inline-block;
-    font-size: 36px;
+    font-size: 28px;
 }
 .post-details{
     @extend .pull-right;
+    background-color: #ececec;
+    border-radius: 16px;
     text-align: right;
-    margin-left: 32px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    box-shadow: 4px 4px 5px grey inset;
 }
 .post-snippet{
     max-width: 500px;
+    font-size: 20px;
+}
+.post-tag{
+    width: auto;
+    background-color: #b9b9b9;
+    border-radius: 10px;
+    padding-left: 4px;
+    padding-right: 2px;
+    padding-top: 4px;
+    padding-bottom: 2px;
+    margin-right: 4px;
 }
 
 // pages
@@ -219,6 +236,9 @@ code {
     img {
         text-align: center;
         width: 100%;
+    }
+    p {
+        font-size: 20px;
     }
 }
 
