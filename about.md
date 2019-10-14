@@ -2,29 +2,19 @@
 layout: default
 ---
 
-## About Me
+## Hello World!
 
-## Typography
+Welcome to tramfishers.com, a site set aside for writing, sharing, grumbling and ranting (maybe).
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+I'm Fraser Smith, a fifty mumble mumble something year old developer and amateur photographer living in Shanghai.
 
-Here is a table
+You can also find me on:
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+- [Twitter](https://twitter.com/frassmith)
+- [Facebook](https://facebook.com/fras.smith)
+- [Instagram](https://instagram.com/frassmith)
+- [Flickr](https://flickr.com/frasshanghai)
+- [LinkedIn](https://linkedin.com/in/frassmith)
+- [Glenelg](https://glenelg.net)
 
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+Why TramFishers? Let's just say that I am a bit confused about that, but SmarterFish was already taken and I didn't really fancy ShitFarmers (it's an anagram).
