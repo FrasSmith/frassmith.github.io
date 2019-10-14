@@ -1,0 +1,14 @@
+<div class="page-title">
+    <a href="{{site.baseurl}}{{ page.url }}" class="page-title">
+            {{ page.title }}
+    </a>
+</div>
+<div class="page-details">
+    {{page.author}}
+    <br>
+    {{ page.date | date: "%Y-%m-%d" }}
+</div>
+<div class="content">
+    {{ page.content }}
+</div>
+<br>

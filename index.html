@@ -1,23 +1,9 @@
 ---
-layout: default
+layout: index
 ---
 
-<br>
-
-{% for post in site.posts %}
-    <a href="{{site.baseurl}}{{ post.url }}" class="post-title">
-        {{ post.title }}
-    </a>
-    <div class="post-details">
-        {{post.author}}
-        <br>
-        {{ post.date | date: "%Y-%m-%d" }}
-    </div>
-    <br>
-    <div class="content">
-        {{ post.content }}
-    </div>
-    <br><br>
+{% for page in site.posts %}
+    {% include story.html %}
     {% if forloop.last == false %}
         <hr><br>
     {% endif %}
