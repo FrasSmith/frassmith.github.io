@@ -2,11 +2,8 @@ title: Parchment
 author: pro-panda
 subtitle: A minimal jekyll theme
 
-url: "https://www.pro-panda.github.io"
-baseurl: "/parchment"
-
-footer_url: "https://github.com/pro-panda"
-footer_text: "Theme by pro-panda"
+url: "https:/frassmith.github.io"
+baseurl: ""
 
 profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.ico
