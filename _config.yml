@@ -6,7 +6,9 @@ url: ""
 baseurl: ""
 
 # profile-picture: assets/profile.jpg
-# favicon_location: assets/favicon.ico
+favicon_location: assets/favicon.ico
+
+footer_text: Copyright 2019, Fraser Smith, TramFishers.
 
 permalink: /:year/:month/:day/:title/
 sass:
