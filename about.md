@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Hello World!
-
 Welcome to tramfishers.com, a site set aside for writing, sharing, grumbling and ranting (maybe).
 
 I'm Fraser Smith, a fifty mumble mumble something year old developer and amateur photographer living in Shanghai.
