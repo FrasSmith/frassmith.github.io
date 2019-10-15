@@ -19,7 +19,7 @@ Most users will be familiar with the Instagram app on iPhone or Android devices.
 
 Wouldn't it be great if you could make the Instagram site on your desktop browser think that it's running on a mobile? Well, you can. Every browser sends a unique identifier to each website that it accesses, describing the platform that it's running on. This identifier, called the User-Agent, is what the site uses to decide whether it's responding to a mobile or a computer. There are extensions available for most popular desktop browsers that will allow you to manually set the User-Agent string to any value you want, allowing your desktop browser to identify as a mobile device if you wish.
 
-For Chrome, one such extension is [User-Agent Switcher for Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg). Install this extension and you'll be able to configure it to use a User-Agent string for a mobile device whenever you access Instgram. Instagram will then serve up its mobile site complete with toolbar and function exactly as if its running on a mobile device.
+For Chrome, one such extension is [User-Agent Switcher for Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg). Install this extension and you'll be able to configure it to use a User-Agent string for a mobile device whenever you access Instagram. Instagram will then serve up its mobile site complete with toolbar and function exactly as if its running on a mobile device. Quick, simple and no need to emulate anything.
 
 <img src="/assets/desktop.png" style="width: 50%;" />
 
