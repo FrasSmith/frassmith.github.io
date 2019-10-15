@@ -11,7 +11,7 @@ One of the biggest frustrations for photographers when using [Instagram](https:/
 
 There are a few tutorials online that outline various methods to work around this limitation. A common solution is to install some form of Android emulator or VM and then install the Instagram app there. This is over complicated and a huge resource drain for such a single use requirement.
 
-The method described here is much simpler and uses an app, [Google Chrome](https://chrome.google.com) that you probably already have installed on your computer.
+The method described here is much simpler and uses an app, [Google Chrome](https://chrome.google.com), that you probably already have installed on your computer.
 
 Most users will be familiar with the Instagram app on iPhone or Android devices. However, what many don't realise is that the app is not mandatory. You can use the Instagram web site on any mobile browser too. The site automatically detects that it's running in a mobile browser and includes the toolbar, including the upload button.
 
