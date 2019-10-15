@@ -16,5 +16,7 @@ sass:
     sass_dir: css
 
 navbar:
+ - name: "Tags"
+   link: "tags"
  - name: "About"
    link: "about"

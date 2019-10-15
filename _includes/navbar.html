@@ -4,7 +4,6 @@
         {% for x in site.navbar %}
         <li class="alignable pull-left navbar-list">
             <a href="{{ site.url }}{{ site.baseurl}}/{{ x.link }}">{{ x.name }}</a>
-            {% if forloop.last == false %}/{% endif %}
         </li>
         {% endfor %}
     </ul>
