@@ -11,12 +11,17 @@ favicon_location: assets/favicon.ico
 footer_text: Copyright 2019, Fraser Smith, TramFishers.
 
 permalink: /:year/:month/:day/:title/
+
 sass:
     style: compressed
     sass_dir: css
+
+plugins:
+  - jekyll-feed
 
 navbar:
  - name: "Tags"
    link: "tags"
  - name: "About"
    link: "about"
+
