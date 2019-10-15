@@ -4,7 +4,7 @@ title: Listening to...
 date: 2019-10-15 07:41
 category:
 author: Fraser Smith
-tags: [post, music]
+tags: [post, music, tidal]
 summary:
 ---
 
