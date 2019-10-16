@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+
+<!-- blog posts -->
+
+    <url>
+        <loc>http://localhost:4000/2019/10/15/posting-to-instagram-from-desktop/</loc>
+        <lastmod>2019-10-15 22:08:00 +0800</lastmod>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2019/10/15/so-much-choice/</loc>
+        <lastmod>2019-10-15 13:39:00 +0800</lastmod>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2019/10/15/the-stranglers-feline/</loc>
+        <lastmod>2019-10-15 07:41:00 +0800</lastmod>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2019/10/14/tidal-playlists/</loc>
+        <lastmod>2019-10-14 00:00:00 +0800</lastmod>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2019/10/01/fidgeting-for-focus/</loc>
+        <lastmod>2019-10-01 00:00:00 +0800</lastmod>
+    </url>
+
+
+<!-- pages -->
+
+    <url>
+        <loc>http://localhost:4000/404.html</loc>
+        <lastmod></lastmod>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/about/</loc>
+        <lastmod></lastmod>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/</loc>
+        <lastmod></lastmod>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/css/main.css</loc>
+        <lastmod></lastmod>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/sitemap.xml</loc>
+        <lastmod>2019-10-16 10:07</lastmod>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/tags/</loc>
+        <lastmod></lastmod>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/feed.xml</loc>
+        <lastmod></lastmod>
+    </url>
+
+
+</urlset>
