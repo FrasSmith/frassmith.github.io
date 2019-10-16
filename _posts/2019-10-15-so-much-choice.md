@@ -3,7 +3,7 @@ layout: post
 title: So much choice
 date: 2019-10-15 13:39
 category:
-author: Fraser Smith
+author: FrasSmith
 tags: [tweet, twitter, BoJoGoGo]
 summary:
 ---

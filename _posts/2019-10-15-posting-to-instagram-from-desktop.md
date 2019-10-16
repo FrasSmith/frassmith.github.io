@@ -3,7 +3,7 @@ layout: post
 title: Posting to Instagram from the Desktop
 date: 2019-10-15 22:08
 category:
-author: Fraser Smith
+author: FrasSmith
 tags: [instagram, photography, howto, tips, chrome]
 summary: A simple way to upload to instagram from computers
 ---

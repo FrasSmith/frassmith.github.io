@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TIDAL Automatic Playlists
-author: Fraser Smith
+author: FrasSmith
 date: 2019-10-14 13:39
 tags: [music, tidal, playlists]
 ---

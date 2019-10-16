@@ -3,7 +3,7 @@ layout: post
 title: Listening to...
 date: 2019-10-15 07:41
 category:
-author: Fraser Smith
+author: FrasSmith
 tags: [post, music, tidal]
 summary:
 ---

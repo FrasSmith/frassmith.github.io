@@ -2,7 +2,7 @@
 layout: post
 title: Fidgeting for Focus
 subtitle: Learning to be more productive from ADD kids.
-author: Fraser Smith
+author: FrasSmith
 tags: [productivity]
 ---
 
