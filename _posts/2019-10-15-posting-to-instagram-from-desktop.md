@@ -8,7 +8,7 @@ tags: [instagram, photography, howto, tips, chrome]
 summary: A simple way to upload to instagram from computers
 ---
 One of the biggest frustrations for photographers when using [Instagram](https://instagram.com) is its mobile only ethos. For any photographer, uploading images to Instgram can be a chore as a typical workflow would be to transfer files from camera to computer, process files, export to jpeg and then, find some way to transfer the jpeg files onto a phone to upload to Instagram. It's almost as if Instagram doesn't really want serious photographers on its platform.
-
+<!--more-->
 There are a few tutorials online that outline various methods to work around this limitation. A common solution is to install some form of Android emulator or VM and then install the Instagram app there. This is over complicated and a huge resource drain for such a single use requirement.
 
 The method described here is much simpler and uses an app, [Google Chrome](https://chrome.google.com), that you probably already have installed on your computer.
