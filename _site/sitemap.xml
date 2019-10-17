@@ -4,6 +4,11 @@
 <!-- blog posts -->
 
     <url>
+        <loc>http://localhost:4000/2019/10/17/kubernetes-poem/</loc>
+        <lastmod>2019-10-17 10:47:00 +0800</lastmod>
+    </url>
+
+    <url>
         <loc>http://localhost:4000/2019/10/15/posting-to-instagram-from-desktop/</loc>
         <lastmod>2019-10-15 22:08:00 +0800</lastmod>
     </url>
