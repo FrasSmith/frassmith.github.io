@@ -124,6 +124,9 @@ code {
     display: inline-block;
     font-size: 28px;
 }
+.page-subtitle{
+    font-size: 20px;
+}
 .page-details{
     @extend .pull-right;
     background-color: #ececec;
@@ -135,9 +138,7 @@ code {
     padding-right: 16px;
     box-shadow: 4px 4px 5px grey inset;
 }
-.page-subtitle{
-    text-align: center;
-}
+
 
 // footer
 

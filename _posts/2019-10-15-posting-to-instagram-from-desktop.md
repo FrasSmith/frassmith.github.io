@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Posting to Instagram from the Desktop
+subtitle: A short "how to".
 date: 2019-10-15 22:08
 category:
 author: FrasSmith

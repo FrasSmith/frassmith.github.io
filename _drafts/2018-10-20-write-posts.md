@@ -51,7 +51,7 @@ int main(void){
 
 **Here is a blockquote,**
 
-> There is no such thing as a hopeless situation. Every single 
+> There is no such thing as a hopeless situation. Every single
 > circumstances of your life can change!
 
 <br>
@@ -73,7 +73,7 @@ for version control using Git
 <br>
 
 **Here is an image,**<br>
-![](../assets/autumn.jpg)
+<!-- ![](../assets/autumn.jpg) -->
 
 --------------
 

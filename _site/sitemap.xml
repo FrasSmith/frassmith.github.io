@@ -4,6 +4,11 @@
 <!-- blog posts -->
 
     <url>
+        <loc>http://localhost:4000/2019/10/17/a-life-in-cameras-1/</loc>
+        <lastmod>2019-10-17 11:01:00 +0800</lastmod>
+    </url>
+
+    <url>
         <loc>http://localhost:4000/2019/10/17/kubernetes-poem/</loc>
         <lastmod>2019-10-17 10:47:00 +0800</lastmod>
     </url>
@@ -31,6 +36,11 @@
     <url>
         <loc>http://localhost:4000/2019/10/01/fidgeting-for-focus/</loc>
         <lastmod>2019-10-01 00:00:00 +0800</lastmod>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/10/20/write-posts/</loc>
+        <lastmod>2018-10-20 00:00:00 +0800</lastmod>
     </url>
 
 
