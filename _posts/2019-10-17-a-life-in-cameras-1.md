@@ -7,6 +7,8 @@ category:
 author: FrasSmith
 tags: [cameras, photography, gas, kodak, instamatic, biographical]
 summary: A series of biographical posts tied to cameras that I've owned
+image:
+  feature: /img/cameras/instamatic.jpg
 ---
 <img src="/img/cameras/instamatic.jpg" style="width: 25%;" />
 
