@@ -21,7 +21,7 @@ My first memory of actually using a camera is probably from the following spring
 
 "Mummy, Mummy," I said, tugging at her sleeve, "I took a photo of a lamb sitting down."
 
-"Lambs don't sit down", she answered patiently, "it must have been..."
+"Lambs don't sit down," she answered patiently, "it must have been..."
 
 Slowly, it dawned on me. I felt my face redden with embarrassment. My first photographic masterpiece. Indeed, the earliest photographic experience that I remember to this day, was of a sheep having a pee.
 
