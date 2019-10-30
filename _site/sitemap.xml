@@ -4,6 +4,11 @@
 <!-- blog posts -->
 
     <url>
+        <loc>http://localhost:4000/2019/10/30/steve-howe-trio/</loc>
+        <lastmod>2019-10-30 00:00:00 +0800</lastmod>
+    </url>
+
+    <url>
         <loc>http://localhost:4000/2019/10/23/chrome-dark-mode/</loc>
         <lastmod>2019-10-23 15:55:00 +0800</lastmod>
     </url>
