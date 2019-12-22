@@ -4,6 +4,16 @@
 <!-- blog posts -->
 
     <url>
+        <loc>http://localhost:4000/2019/12/22/mayflower-400/</loc>
+        <lastmod>2019-12-22 11:40:00 +0800</lastmod>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2019/11/13/a-life-in-cameras-2/</loc>
+        <lastmod>2019-11-13 16:30:00 +0800</lastmod>
+    </url>
+
+    <url>
         <loc>http://localhost:4000/2019/10/30/steve-howe-trio/</loc>
         <lastmod>2019-10-30 00:00:00 +0800</lastmod>
     </url>
@@ -21,11 +31,6 @@
     <url>
         <loc>http://localhost:4000/2019/10/18/dune-movie/</loc>
         <lastmod>2019-10-18 16:51:00 +0800</lastmod>
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2019/10/17/a-life-in-cameras-2/</loc>
-        <lastmod>2019-10-17 16:30:00 +0800</lastmod>
     </url>
 
     <url>
