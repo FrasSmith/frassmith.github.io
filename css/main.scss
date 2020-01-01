@@ -19,7 +19,7 @@ html {
 }
 body {
     margin: 0;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Alegreya', serif;
     height: 100%;
 }
 a {
@@ -64,11 +64,17 @@ code {
 // Navbar
 
 #site-title {
+    font-family: 'Alegreya Sans SC', sans-serif;
     font-size: 48px;
     color: #272727;
     display: inline-block;
 }
+
+.read-more {
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
 .navbar {
+    font-family: 'Alegreya Sans SC', sans-serif;
     padding: 50px 0 50px 0;
 }
 .navbar-ul {
@@ -85,12 +91,16 @@ code {
 // index
 
 .post-title{
+    font-family: 'Alegreya Sans SC', sans-serif;
+
     max-width: 500px;
     color: #272727;
     display: inline-block;
     font-size: 28px;
 }
 .post-details{
+    font-family: 'Alegreya Sans SC', sans-serif;
+
     @extend .pull-right;
     background-color: #ececec;
     border-radius: 16px;
@@ -106,6 +116,8 @@ code {
     font-size: 20px;
 }
 .post-tag{
+    font-family: 'Alegreya Sans SC', sans-serif;
+
     width: auto;
     background-color: #b9b9b9;
     border-radius: 10px;
@@ -119,15 +131,21 @@ code {
 // pages
 
 .page-title{
+    font-family: 'Alegreya Sans SC', sans-serif;
+
     max-width: 500px;
     color: #272727;
     display: inline-block;
     font-size: 28px;
 }
 .page-subtitle{
+    font-family: 'Alegreya Sans SC', sans-serif;
+
     font-size: 20px;
 }
 .page-details{
+    font-family: 'Alegreya Sans SC', sans-serif;
+
     @extend .pull-right;
     background-color: #ececec;
     border-radius: 16px;
