@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Life in Cameras
-subtitle: Part 2 - FED 4, Russian Rangefinder
+subtitle: Part 2 - FED 4, Russian Rangefinder, 1981
 date: 2020-01-31 11:00
 category:
 author: Fraser Smith
@@ -12,7 +12,7 @@ image:
 ---
 <img src="/img/cameras/fed.jpg" style="width: 250px;" />
 
-_Second of a series of posts dedicated to the many cameras that I have owned over the years. While some posts may focus on my thoughts the camera itself, for others, I hope to dig up some remote memories and anecdotes from the time when I owned it._
+_Second of a series of posts dedicated to the many cameras that I have owned over the years. While some posts may focus on my thoughts about the camera itself, for others, I hope to dig up some remote memories and anecdotes from the time when I owned it._
 <!--more-->
 
 Writing this second article has taken a bit longer than expected. The problem is that this article and several future articles will touch on the same subject. It's not a difficult subject, but I don't want to start repeating myself without having something new to say.
