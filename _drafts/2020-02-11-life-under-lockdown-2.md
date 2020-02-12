@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life Under Lockdown 2
-subtitle: More from Shanghai during the Coronavirus Crisis
+subtitle: Shanghai during the <del>Coronavirus</del> Covid-19 Crisis
 date: 2020-02-11 17:45
 category:
 author: Fraser Smith
@@ -25,7 +25,7 @@ I'm lucky that I typically work from home anyway so it's not too difficult to ad
 
 The schools are starting to put their e-learning strategies into place. Officially, they won't start until March 2nd. However, Emily's school is planning to start remote video classes next week and has published quite an extensive timetable. Emily's younger sister Charlotte's elementary school has announced that they will start e-learning on March 2nd. It looks as if the kids will still be at home even after the March 2nd deadline. I guess we're in this for the long haul. Meanwhile, the entrepreneurial spirit is kicking in. At least one online learning company has scheduled free daily live streams for Mandarin and English classes of all grades until the local schools implement their own e-learning program.
 
-The entrepreneurial spirit is evident elsewhere too. Our apartment, like most in Shanghai has advertising video displays in the elevators. These now seem to be alternating patriotic videos of heroic doctors in Wuhan with advertisements for vitamin supplements (we're all stuck at home, cooking lots and not exercising enough), silicone gloves (we don't want to touch anything), and, yes, free online learning.
+The entrepreneurial spirit is evident elsewhere too. Our apartment, like most in Shanghai has advertising video displays in the elevators. These now seem to be alternating patriotic videos of heroic doctors in Wuhan with advertisements for vitamin supplements (we're all stuck at home, cooking lots, eating too much, and not exercising enough), silicone gloves (we don't want to touch anything), and, yes, free online learning.
 
 Finally, something that brought everything into sharp perspective, a business associate and friend of my wife, architect Chen Zhanhui (Sunny), died suddenly of a heart attack on Sunday morning. He was fifty-one. He leaves a wife and two young daughters. We just learned today that his wife is pregnant. A sobering reminder that virus or no virus, life is precarious.
 
