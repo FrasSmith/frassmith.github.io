@@ -27,6 +27,6 @@ The schools are starting to put their e-learning strategies into place. Official
 
 The entrepreneurial spirit is evident elsewhere too. Our apartment, like most in Shanghai has advertising video displays in the elevators. These now seem to be alternating patriotic videos of heroic doctors in Wuhan with advertisements for vitamin supplements (we're all stuck at home, cooking lots, eating too much, and not exercising enough), silicone gloves (we don't want to touch anything), and, yes, free online learning.
 
-Finally, something that brought everything into sharp perspective, a business associate and friend of my wife, architect Chen Zhanhui (Sunny), died suddenly of a heart attack on Sunday morning. He was fifty-one. He leaves a wife and two young daughters. We just learned today that his wife is pregnant. A sobering reminder that virus or no virus, life is precarious.
+Finally, something that brought everything into sharp perspective. A business associate and friend of my wife, architect Chen Zhanhui (Sunny), died suddenly of a heart attack on Sunday morning. He was fifty-one. He leaves a wife and two young daughters. We just learned today that his wife is pregnant. A sobering reminder that virus or no virus, life is precarious.
 
 
