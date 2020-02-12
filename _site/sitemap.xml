@@ -4,11 +4,6 @@
 <!-- blog posts -->
 
     <url>
-        <loc>http://localhost:4000/2020/02/11/life-under-lockdown-2/</loc>
-        <lastmod>2020-02-11 17:45:00 +0800</lastmod>
-    </url>
-
-    <url>
         <loc>http://localhost:4000/2020/02/06/life-under-lockdown/</loc>
         <lastmod>2020-02-06 13:52:00 +0800</lastmod>
     </url>

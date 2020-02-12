@@ -2,10 +2,10 @@
 layout: post
 title: Life Under Lockdown 2
 subtitle: Shanghai during the <del>Coronavirus</del> Covid-19 Crisis
-date: 2020-02-11 17:45
+date: 2020-02-12 17:45
 category:
 author: Fraser Smith
-tags: [life, coronavirus, shanghai, china, lockdown, write52]
+tags: [life, coronavirus, covid-19, shanghai, china, lockdown, write52]
 summary: More updates on life in Shanghai during the coronavirus outbreak
 ---
 <img src="/img/skyway.jpg" style="width: 250px;" />
