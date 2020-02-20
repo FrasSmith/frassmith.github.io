@@ -21,7 +21,7 @@ I bought my first _serious_ camera, a Russian made FED 4 rangefinder, in my late
 
 And that's about it for camera talk in this post. The FED 4 wasn't a great camera but it served me well for a couple of years.
 
-This post is more about missed opportunities and choices made at that time that can never be rectified. To tell that story, we need to start much more recently. On December 29th, 2019, the famous Scottish author, Alasdair Gray died. I confess that I had never read any of his books and wasn't fully aware of his status and legacy. However, I did remember, as an 18-year-old student in Glasgow in 1981, seeing his first and most famous novel "Lanark" prominently displayed in the city's [book shops](http://www.mycityglasgow.co.uk/index_files/johnsmith.htm).
+This post is more about missed opportunities and choices made at that time that can never be rectified. To tell that story, we need to start much more recently. On December 29th, 2019, the famous Scottish author, Alasdair Gray died. I confess that I had never read any of his books and wasn't fully aware of his status and legacy. However, I did remember, as an 18-year-old student in Glasgow in 1981, seeing his first and most famous novel "Lanark" prominently displayed in the city's book shops.
 
 I remember being intrigued by this odd looking book with the naked woman on the cover, but I never bought it, because of the naked woman on the cover. As a teenager, still living at home with my parents, I felt that the anticipated explanations required for the inevitable questions that would be asked far outweighed my desire to read the book.
 
