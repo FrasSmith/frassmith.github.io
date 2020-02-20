@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Life in Cameras
+title: A Life in Cameras 2
 subtitle: Part 2 - FED 4, Russian Rangefinder, 1981
 date: 2020-01-31 11:00
 category:
