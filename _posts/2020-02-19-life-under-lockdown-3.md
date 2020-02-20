@@ -8,7 +8,7 @@ author: Fraser Smith
 tags: [life, coronavirus, covid-19, shanghai, china, lockdown, write52]
 summary: Even More updates on life in Shanghai during the coronavirus outbreak
 ---
-<img src="/img/empty-road.jpg alt="An Empty road in Shanghai" />
+<img src="/img/empty-road.jpg" alt="An Empty road in Shanghai" />
 
 When I wrote the original post in this series, I assumed it was going to be a single post. After the second, I thought that would be it. However, the situation is always fluid. Things change. So here we are with post number 3.
 <!--more-->
