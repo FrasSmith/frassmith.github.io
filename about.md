@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About Tramfishers.com
 ---
 
 Welcome to tramfishers.com, a site set aside for writing, sharing, grumbling and ranting (maybe).
