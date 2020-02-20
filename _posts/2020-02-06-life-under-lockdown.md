@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Life Under Lockdown 1
+title: Life Under Lockdown
 subtitle: An update from Shanghai during the Coronavirus Crisis
 date: 2020-02-06 13:52
 category:
