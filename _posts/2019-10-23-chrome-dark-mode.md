@@ -11,7 +11,7 @@ image:
 ---
 Google Chrome version 78 has just launched. I was having a look at the "chrome://flags" page and discovered that it's now possible to enable dark mode for all sites in the browser.
 
-As mentioned, enter [chrome://flags](chrome://flags) in the url bar and then, when the page loads, search for "dark". You should see the two settings shown in the image below.
+As mentioned, enter "chrome://flags" in the url bar and then, when the page loads, search for "dark". You should see the two settings shown in the image below.
 
 <img src="/img/ChromeDarkMode.png" style="width: 80%;" />
 
