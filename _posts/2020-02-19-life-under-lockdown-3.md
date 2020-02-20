@@ -7,6 +7,7 @@ category:
 author: Fraser Smith
 tags: [life, coronavirus, covid-19, shanghai, china, lockdown, write52]
 summary: Even More updates on life in Shanghai during the coronavirus outbreak
+snippet: Living under lockdown has become the new normal. We do still get out, but we try to only go out when it's absolutely essential. In addition, we do have regular deliveries which entail a short walk to the gatehouse for collection.
 ---
 <img src="/img/empty-road.jpg" alt="An Empty road in Shanghai" />
 

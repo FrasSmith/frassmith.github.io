@@ -7,6 +7,7 @@ category:
 author: Fraser Smith
 tags: [life, coronavirus, covid-19, shanghai, china, lockdown, write52]
 summary: More updates on life in Shanghai during the coronavirus outbreak
+snippet: It has been a week of reflection, a week of getting enough sleep, a week of boredom and, sadly, a week marred by tragedy. It's also been the week in which I completed my 57th orbit of the sun so yay for me.
 ---
 <img src="/img/skyway.jpg" alt="Looking up at Skyway Hotel" style="width: 250px;" />
 

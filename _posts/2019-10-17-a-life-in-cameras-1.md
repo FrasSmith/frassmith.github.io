@@ -9,6 +9,7 @@ tags: [cameras, photography, gas, kodak, instamatic, biographical]
 summary: A series of biographical posts tied to cameras that I've owned
 image:
   feature: /img/cameras/instamatic.jpg
+snippet: the first of a series of posts dedicated to the many cameras that I have owned over the years.
 ---
 <img src="/img/cameras/instamatic.jpg" alt="Kodak Instamatic" style="width: 250px;" />
 

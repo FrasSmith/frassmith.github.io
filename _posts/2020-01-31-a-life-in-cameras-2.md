@@ -9,6 +9,7 @@ tags: [cameras, photography, gas, fed, rangefinder, leicamount, Leica, biographi
 summary: A series of biographical posts tied to cameras that I've owned
 image:
   feature: /img/cameras/fed.jpg
+snippet: Second of a series of posts dedicated to the many cameras that I have owned over the years. While some posts may focus on my thoughts about the camera itself, for others, I hope to dig up some remote memories
 ---
 <img src="/img/cameras/fed.jpg" alt="FED 4 Camera" style="width: 250px;" />
 

@@ -4,6 +4,7 @@ title: Fidgeting for Focus
 subtitle: Learning to be more productive from ADD kids.
 author: FrasSmith
 tags: [productivity]
+snippet: an article that was first published in 2010 on edexpat.com. Edexpat is long gone, but thanks to the internet archive, the text of this article was recoverable
 ---
 
 
