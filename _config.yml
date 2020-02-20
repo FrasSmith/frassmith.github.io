@@ -10,7 +10,7 @@ favicon_location: assets/favicon.ico
 
 footer_text: Copyright 2020, Fraser Smith, TramFishers.
 
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title
 
 excerpt_separator: <!--more-->
 
