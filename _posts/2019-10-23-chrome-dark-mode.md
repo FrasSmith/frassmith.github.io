@@ -8,7 +8,7 @@ tags: [chrome, google, DarkMode, tips]
 summary: Google Chrome version 78 has a dark mode for all sites
 image:
   feature: /img/ChromeDarkMode.png
-snippet: A how to post on setting up chrome dark mode
+snippet: A how to post on setting up chrome dark mode using the experimental settings in the flags page
 ---
 Google Chrome version 78 has just launched. I was having a look at the "chrome://flags" page and discovered that it's now possible to enable dark mode for all sites in the browser.
 

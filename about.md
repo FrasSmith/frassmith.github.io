@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Tramfishers.com
+snippet: Just your common or garden about page including a cryptic explanation of the domain name tramfishers.com.
 ---
 
 Welcome to tramfishers.com, a site set aside for writing, sharing, grumbling and ranting (maybe).
