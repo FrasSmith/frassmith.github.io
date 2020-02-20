@@ -10,7 +10,7 @@ summary: A series of biographical posts tied to cameras that I've owned
 image:
   feature: /img/cameras/instamatic.jpg
 ---
-<img src="/img/cameras/instamatic.jpg" style="width: 250px;" />
+<img src="/img/cameras/instamatic.jpg" alt="Kodak Instamatic" style="width: 250px;" />
 
 _This is the first of a series of posts dedicated to the many cameras that I have owned over the years. While some of the posts may focus on my thoughts the camera itself, for others, I hope to dig up some remote memories and anecdotes from the time when I owned it._
 <!--more-->

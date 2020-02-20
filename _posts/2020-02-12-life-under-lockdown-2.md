@@ -8,7 +8,7 @@ author: Fraser Smith
 tags: [life, coronavirus, covid-19, shanghai, china, lockdown, write52]
 summary: More updates on life in Shanghai during the coronavirus outbreak
 ---
-<img src="/img/skyway.jpg" style="width: 250px;" />
+<img src="/img/skyway.jpg" alt="Looking up at Skyway Hotel" style="width: 250px;" />
 
 When I wrote the original [Life Under Lockdown](https://tramfishers.com/2020/02/06/life-under-lockdown/) post a week ago, I didn't plan on making it a series, but here we are, one week later and I'm writing an update.
 

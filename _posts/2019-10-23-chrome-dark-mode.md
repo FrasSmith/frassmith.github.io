@@ -13,7 +13,7 @@ Google Chrome version 78 has just launched. I was having a look at the "chrome:/
 
 As mentioned, enter "chrome://flags" in the url bar and then, when the page loads, search for "dark". You should see the two settings shown in the image below.
 
-<img src="/img/ChromeDarkMode.png" style="width: 80%;" />
+<img src="/img/ChromeDarkMode.png" alt="Chrome Dark Mode"style="width: 80%;" />
 
 Select one of the choices for **"Force Dark Mode for Web Content"** from the drop down menu on the right and click the button at the bottom right of the screen to relaunch your browser. I'm not sure what all the options do, but I found that **"Enabled with selective inversion of everything"** works quite well.
 

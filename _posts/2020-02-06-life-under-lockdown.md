@@ -9,7 +9,7 @@ tags: [life, coronavirus, shanghai, china, lockdown, write52]
 summary: An update on life in Shanghai during the coronavirus outbreak
 snippet: Living in Shanghai during the current coronavirus outbreak, I am often asked by overseas friends, how we are doing. The short form answer to that is, We are fine. But here's a longer update on the situation to date from the perspective of an expat in Shanghai.
 ---
-<img src="/img/masked.jpg" style="width: 250px;" />
+<img src="/img/masked.jpg" alt="Author in Mask" style="width: 250px;" />
 
 Living in Shanghai during the current coronavirus outbreak, I'm often asked by overseas friends, how we are doing. The short form answer to that is, "We're fine". But here's a longer update on the situation to date from the perspective of an expat in Shanghai.
 <!--more-->
