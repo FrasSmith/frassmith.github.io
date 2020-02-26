@@ -20,7 +20,7 @@ Reports of South Korean religious cults actively trying to spread the virus glob
 
 This is the week that the government relaxed travel restrictions to allow people to finally return to the city after their extended Chinese New Year break and kick-start the economy which was probably hovering on the brink of recession. I read today that rush hour traffic in Shanghai was at 80%-90% of normal this morning. There were even some traffic jams. Mixed blessings I guess.
 
-On a slightly more "meta" level, this site and specifically this series of posts got quite a boost yesterday when one of my tweets mentioning it was retweeted by [Neil Gaiman](https://twitter.com/neilhimself). This accounted a nice boost in views for the posts. Which was nice.
+On a slightly more "meta" level, this site and specifically this series of posts got quite a boost yesterday when one of my tweets mentioning it was retweeted by [Neil Gaiman](https://twitter.com/neilhimself). This accounted for a nice uplift in views for the posts. Which was nice.
 
 So, will this be my final update in this series? Maybe next week I'll return to my extremely sparse autobiographical series "A Life in Cameras". I'm pretty sure that we'll still be under lockdown here, but our position is becoming less unique. How many more people across the globe will be under lockdown next week?
 
