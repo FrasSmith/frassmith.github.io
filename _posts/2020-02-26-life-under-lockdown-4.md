@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life Under Lockdown 4
-subtitle: Shanghai Lockdown, over to you world.
+subtitle: Shanghai Lockdown, signs of improvement.
 date: 2020-02-26 19:30
 category:
 author: Fraser Smith
