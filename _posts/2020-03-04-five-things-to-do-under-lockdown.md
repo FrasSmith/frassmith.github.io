@@ -18,7 +18,7 @@ So here we are at post number 5 about life under lockdown in Shanghai. As the si
 
     This is probably a no-brainer for anyone who has a job, but finds that they are unable to go to their place of work. I'm lucky, I'm already a remote worker so adjusting to lockdown life hasn't been difficult for me. My advice to those of you experiencing this for the first time is to "set boundaries", both physical, and chronological. Try to find a location where you can work uninterrupted by your family and focus on your work. However, just because your place of work is now within your home, that doesn't mean you have to work at all hours of the day. Try to keep to normal business hours.
 
-    Of course, with family at home too and possibly with kids taking part in e-learning program, this may not always be easy. Flexibility will be called required.
+    Of course, with family at home too and possibly with kids taking part in e-learning program, this may not always be easy. Flexibility will be required.
 
 2. **Cook**
 
