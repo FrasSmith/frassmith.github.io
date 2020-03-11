@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Life in Cameras 2
-subtitle: Part 2 - FED 4, Russian Rangefinder, 1981
+subtitle: Part 2 - FED 4, Russian Rangefinder, 1978
 date: 2020-01-31 11:00
 category:
 author: Fraser Smith
