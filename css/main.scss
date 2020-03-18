@@ -267,6 +267,29 @@ code {
         text-align: center;
         width: 100%;
     }
+
+    .pic
+    {
+        width: 320px;
+        height: 218px;
+    }
+
+    .lft {
+        width: 330px;
+        float: left;
+        padding-top: 5px;
+        padding-right: 10px;
+        padding-bottom: 5px;
+    }
+
+    .rght {
+        width: 330px;
+        float: right;
+        padding-top: 5px;
+        padding-left: 10px;
+        padding-bottom: 5px;
+    }
+
     p {
         font-size: 20px;
     }

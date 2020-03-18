@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Life in Cameras 3
+title: Camera Life 3
 subtitle: Part 3 - Minolta XG/M
 date: 2020-03-11 17:00
 category:

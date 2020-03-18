@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Life in Cameras 1
+title: Camera Life 1
 subtitle: Part 1 - Kodak Instamatic and the Embarrassed Sheep
 date: 2019-10-17 11:01
 category:
