@@ -5,7 +5,7 @@ subtitle: Part 4 - Olympus XA 1984...
 date: 2020-03-18 18:00
 category:
 author: Fraser Smith
-tags: [cameras, photography, gas, autobiographical, Olympus XA, Olympus, Racal, Decca]
+tags: [cameras, photography, gas, autobiographical, Olympus XA, Olympus, Racal, Decca, houston, texas, louisiana, snakes, alligators, wadlopen, netherlands]
 summary: A series of autobiographical posts tied to cameras that I've owned
 image:
   feature: /img/cameras/oly.jpg
