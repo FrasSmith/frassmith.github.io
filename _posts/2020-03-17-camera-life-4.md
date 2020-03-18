@@ -20,7 +20,7 @@ Graduating from college in 1983, I spent the summer months working in a Hi-fi sh
 
 My 21st birthday was in February 1984, so I asked my sister and brother-in-law for a new camera as a birthday gift. The camera that I chose was the very compact and entirely pocketable Olympus XA. I could write hundreds of words about this camera but [Casual Photo File](https://www.casualphotophile.com/2018/06/20/olympus-xa-review-35mm-film-camera-rangefinder/) does a much better job than I could and I'm not trying to write about cameras per se.
 
-The XA became my carry-everywhere camera for the next fifteen years or so. Right up until I bought my first digital camera in the late nineties. Even since then, I have still run the occasional roll of film through it.
+The XA became my carry-everywhere camera for the next fifteen years or so. Right up until I bought my first digital camera in the late nineties. Even since that time I have still run the occasional roll of film through it.
 
 My job was with a company called Racal Survey, although, in many parts of the world, it was still known by its more historically famous name Decca Survey. As an aside Decca Survey was a separate company from Decca Records, the company that infamously rejected The Beatles. Decca Survey was more famous as the company built out the technological advances in navigation made during World War Two that enabled the thousand bomber raids over Germany by using its accurate (for the time) navigation network.
 
