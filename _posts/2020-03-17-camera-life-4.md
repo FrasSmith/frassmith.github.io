@@ -13,7 +13,7 @@ snippet: Fourth of a series of posts dedicated to the many cameras that I have o
 ---
 <img src="/img/cameras/oly-bw.jpg" alt="Olympus XA Camera plus film" />
 
-_Nothing could have prepared me for the intense heat and humidity of Houston, Texas in the late summer of 1984 when I arrived there for my first overseas posting. Even the TV weather forecasts couldn't cope when screen weather tickers topped out at 99% humidity for the simple reason that they couldn't handle the three digits required to display 100%._
+_Nothing could have prepared me for the intense heat and humidity of Houston, Texas, in the late summer of 1984, when I arrived there for my first overseas posting. Even the TV weather forecasts couldn't cope when screen weather tickers topped out at 99% humidity for the simple reason that they couldn't handle the three digits required to display 100%._
 <!--more-->
 
 Graduating from college in 1983, I spent the summer months working in a Hi-fi shop in Glasgow while I looked for a full-time job. I found that job in the autumn and started my training in a few weeks before Christmas. Very early on, I learned that the job would entail a lot of overseas travel and that I would be spending a lot of time at sea. It seemed that traveling light would be the order of the day and I wouldn't be able to take my [SLR and lenses](https://www.tramfishers.com/2020/03/11/a-life-in-cameras-3) with me on my trips. A smaller camera was required.
