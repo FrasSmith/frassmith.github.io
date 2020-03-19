@@ -5,7 +5,7 @@ subtitle: Part 4 - Olympus XA 1984...
 date: 2020-03-18 18:00
 category:
 author: Fraser Smith
-tags: [cameras, photography, gas, autobiographical, Olympus XA, Olympus, Racal, Decca, houston, texas, louisiana, snakes, alligators, wadlopen, netherlands]
+tags: [cameras, photography, gas, autobiographical, Olympus XA, Olympus, Racal, Decca, houston, texas, louisiana, snakes, alligators, wadlopen, netherlandscode]
 summary: A series of autobiographical posts tied to cameras that I've owned
 image:
   feature: /img/cameras/oly.jpg
@@ -16,13 +16,13 @@ snippet: Fourth of a series of posts dedicated to the many cameras that I have o
 _Nothing could have prepared me for the intense heat and humidity of Houston, Texas, in the late summer of 1984, when I arrived there for my first overseas posting. Even the TV weather forecasts couldn't cope when screen weather tickers topped out at 99% humidity for the simple reason that they couldn't handle the three digits required to display 100%._
 <!--more-->
 
-Graduating from college in 1983, I spent the summer months working in a Hi-fi shop in Glasgow while I looked for a full-time job. I found that job in the autumn and started my training in a few weeks before Christmas. Very early on, I learned that the job would entail a lot of overseas travel and that I would be spending a lot of time at sea. It seemed that traveling light would be the order of the day and I wouldn't be able to take my [SLR and lenses](https://www.tramfishers.com/2020/03/11/a-life-in-cameras-3) with me on my trips. A smaller camera was required.
+Graduating from college in 1983, I spent the summer months working in a Hi-fi shop in Glasgow while I looked for a full-time job. I found that job in the autumn and started my training a few weeks before Christmas. Very early on, I learned that the job would entail a lot of overseas travel and that I would be spending a lot of time at sea. It seemed that traveling light would be the order of the day and I wouldn't be able to take my [SLR and lenses](https://www.tramfishers.com/2020/03/11/a-life-in-cameras-3) with me on my trips. A smaller camera was required.
 
 My 21st birthday was in February 1984, so I asked my sister and brother-in-law for a new camera as a birthday gift. The camera that I chose was the very compact and entirely pocketable Olympus XA. I could write hundreds of words about this camera but [Casual Photo File](https://www.casualphotophile.com/2018/06/20/olympus-xa-review-35mm-film-camera-rangefinder/) does a much better job than I could and I'm not trying to write about cameras per se.
 
 The XA became my carry-everywhere camera for the next fifteen years or so. Right up until I bought my first digital camera in the late nineties. Even since that time I have still run the occasional roll of film through it.
 
-My job was with a company called Racal Survey, although, in many parts of the world, it was still known by its more historically famous name Decca Survey. As an aside Decca Survey was a separate company from Decca Records, the company that infamously rejected The Beatles. Decca Survey was more famous as the company built out the technological advances in navigation made during World War Two that enabled the thousand bomber raids over Germany by using its accurate (for the time) navigation network.
+My job was with a company called Racal Survey, although, in many parts of the world, it was still known by its more historically famous name Decca Survey. As an aside Decca Survey was a separate company from Decca Records, the company that infamously rejected The Beatles. Decca Survey was more famous as the company built out of the technological advances in navigation made during World War Two that enabled the thousand bomber raids over Germany by using its accurate (for the time) navigation network.
 
 After several training courses in the UK and a couple of offshore jobs in the North Sea, I was ready for my first overseas posting, Houston, Texas.
 
