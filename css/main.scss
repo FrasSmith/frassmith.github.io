@@ -274,6 +274,13 @@ code {
         height: 218px;
     }
 
+    .galpic
+    {
+        float: left;
+        width: 320px;
+        height: 218px;
+    }
+
     .lft {
         width: 330px;
         float: left;
@@ -329,3 +336,4 @@ table tr th :first-child, table tr td :first-child {
 table tr th :last-child, table tr td :last-child {
     margin: 0;
 }
+

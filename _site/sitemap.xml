@@ -78,6 +78,11 @@
         <lastmod>2019-10-01 00:00:00 +0800</lastmod>
     </url>
 
+    <url>
+        <loc>http://localhost:4000/2018/10/20/write-posts</loc>
+        <lastmod>2018-10-20 00:00:00 +0800</lastmod>
+    </url>
+
 
 <!-- pages -->
 
@@ -108,6 +113,11 @@
 
     <url>
         <loc>http://localhost:4000/tags/</loc>
+        <lastmod></lastmod>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/wallpapers</loc>
         <lastmod></lastmod>
     </url>
 

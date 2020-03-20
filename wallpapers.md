@@ -1,0 +1,162 @@
+---
+layout: default
+title: Wallpapers
+images:
+ -  coffee.jpg
+ -  IMG_1070.jpg
+ -  IMG_1071.jpg
+ -  IMG_1072.jpg
+ -  IMG_1073.jpg
+ -  IMG_1074.jpg
+ -  IMG_1262.jpg
+ -  IMG_1263.jpg
+ -  IMG_1265.jpg
+ -  IMG_1266.jpg
+ -  IMG_1944.jpg
+ -  IMG_2220-1.jpg
+ -  IMG_2610.jpg
+ - wallpaper0001.jpg
+ - wallpaper0002.jpg
+ - wallpaper0003.jpg
+ - wallpaper0004.jpg
+ - wallpaper0005.jpg
+ - wallpaper0006.jpg
+ - wallpaper0007.jpg
+ - wallpaper0008.jpg
+ - wallpaper0009.jpg
+ - wallpaper0010.jpg
+ - wallpaper0011.jpg
+ - wallpaper0012.jpg
+ - wallpaper0013.jpg
+ - wallpaper0014.jpg
+ - wallpaper0015.jpg
+ - wallpaper0016.jpg
+ - wallpaper0017.jpg
+ - wallpaper0018.jpg
+ - wallpaper0019.jpg
+ - wallpaper0020.jpg
+ - wallpaper0021.jpg
+ - wallpaper0022.jpg
+ - wallpaper0023.jpg
+ - wallpaper0024.jpg
+ - wallpaper0025.jpg
+ - wallpaper0026.jpg
+ - wallpaper0027.jpg
+ - wallpaper0028.jpg
+ - wallpaper0029.jpg
+ - wallpaper0030.jpg
+ - wallpaper0031.jpg
+ - wallpaper0032.jpg
+ - wallpaper0033.jpg
+ - wallpaper0034.jpg
+ - wallpaper0035.jpg
+ - wallpaper0036.jpg
+ - wallpaper0037.jpg
+ - wallpaper0038.jpg
+ - wallpaper0039.jpg
+ - wallpaper0040.jpg
+ - wallpaper0041.jpg
+ - wallpaper0042.jpg
+ - wallpaper0043.jpg
+ - wallpaper0044.jpg
+ - wallpaper0045.jpg
+ - wallpaper0046.jpg
+ - wallpaper0047.jpg
+ - wallpaper0048.jpg
+ - wallpaper0049.jpg
+ - wallpaper0050.jpg
+ - wallpaper0051.jpg
+ - wallpaper0052.jpg
+ - wallpaper0053.jpg
+ - wallpaper0054.jpg
+ - wallpaper0055.jpg
+ - wallpaper0056.jpg
+ - wallpaper0057.jpg
+ - wallpaper0058.jpg
+ - wallpaper0059.jpg
+ - wallpaper0060.jpg
+ - wallpaper0061.jpg
+ - wallpaper0062.jpg
+ - wallpaper0063.jpg
+ - wallpaper0064.jpg
+ - wallpaper0065.jpg
+ - wallpaper0066.jpg
+ - wallpaper0067.jpg
+ - wallpaper0068.jpg
+ - wallpaper0069.jpg
+ - wallpaper0070.jpg
+ - wallpaper0071.jpg
+ - wallpaper0072.jpg
+ - wallpaper0073.jpg
+ - wallpaper0074.jpg
+ - wallpaper0075.jpg
+ - wallpaper0076.jpg
+ - wallpaper0077.jpg
+ - wallpaper0078.jpg
+ - wallpaper0079.jpg
+ - wallpaper0080.jpg
+ - wallpaper0081.jpg
+ - wallpaper0082.jpg
+ - wallpaper0083.jpg
+ - wallpaper0084.jpg
+ - wallpaper0085.jpg
+ - wallpaper0086.jpg
+ - wallpaper0087.jpg
+ - wallpaper0088.jpg
+ - wallpaper0089.jpg
+ - wallpaper0090.jpg
+ - wallpaper0091.jpg
+ - wallpaper0092.jpg
+ - wallpaper0093.jpg
+ - wallpaper0094.jpg
+ - wallpaper0095.jpg
+ - wallpaper0096.jpg
+ - wallpaper0097.jpg
+ - wallpaper0098.jpg
+ - wallpaper0099.jpg
+ - wallpaper0100.jpg
+ - wallpaper0101.jpg
+ - wallpaper0102.jpg
+ - wallpaper0103.jpg
+ - wallpaper0104.jpg
+ - wallpaper0105.jpg
+ - wallpaper0106.jpg
+ - wallpaper0107.jpg
+ - wallpaper0108.jpg
+ - wallpaper0109.jpg
+ - wallpaper0110.jpg
+ - wallpaper0111.jpg
+ - wallpaper0112.jpg
+ - wallpaper0113.jpg
+ - wallpaper0114.jpg
+ - wallpaper0115.jpg
+ - wallpaper0116.jpg
+ - wallpaper0117.jpg
+ - wallpaper0118.jpg
+ - wallpaper0119.jpg
+ - wallpaper0120.jpg
+ - wallpaper0121.jpg
+ - wallpaper0122.jpg
+ - wallpaper0123.jpg
+ - wallpaper0124.jpg
+ - wallpaper0125.jpg
+ - wallpaper0126.jpg
+ - wallpaper0127.jpg
+ - wallpaper0128.jpg
+ - wallpaper0129.jpg
+ - wallpaper0130.jpg
+ - wallpaper0131.jpg
+ - wallpaper0132.jpg
+ - wallpaper0133.jpg
+ - wallpaper0134.jpg
+---
+
+The thumbnails below link directly to higher resolution versions of the images. To download an individual file click on its thumbnail to open a full-size version in a new tab and then right-click to save the file.
+<div>
+    {% for img in page.images %}
+    <a href="{{site.imagebase}}{{ img }}" target="_blank">
+        <img  class="galpic" src="{{site.imagebase}}{{ img }}" />
+    </a>
+    {% endfor %}
+</div>
+
