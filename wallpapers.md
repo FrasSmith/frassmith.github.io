@@ -156,8 +156,8 @@ The thumbnails below link directly to higher resolution versions of the images. 
 
 <div>
     {% for img in page.images %}
-    <a href="{{site.imagebase}}{{ img }}" target="_blank">
-        <img  class="galpic" src="{{site.imagebase}}{{ img }}" />
+    <a href="{{site.imagebase}}{{ img }}" data-fancybox="gallery" >
+        <img class="galpic" src="{{site.imagebase}}{{ img }}" />
     </a>
     {% endfor %}
 </div>
