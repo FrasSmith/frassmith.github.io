@@ -4,6 +4,8 @@ title: Wallpapers
 permalink: /wallpapers/
 snippet: A new page showing thumbnails for all of my free wallpapers that have now been open sourced on github.
 images:
+ -  bluewall.jpg
+ -  greenwindow.jpg
  -  coffee.jpg
  -  IMG_1070.jpg
  -  IMG_1071.jpg
