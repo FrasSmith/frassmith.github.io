@@ -117,7 +117,7 @@
     </url>
 
     <url>
-        <loc>http://localhost:4000/wallpapers</loc>
+        <loc>http://localhost:4000/wallpapers/</loc>
         <lastmod></lastmod>
     </url>
 
