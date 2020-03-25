@@ -2,7 +2,7 @@
 layout: post
 title: Life Under Lockdown 6
 subtitle: A bit of excitement
-date: 2020-03-25 19:00
+date: 2020-03-25 18:30
 category:
 author: Fraser Smith
 tags: [life, coronavirus, covid-19, shanghai, china, lockdown, write52]
