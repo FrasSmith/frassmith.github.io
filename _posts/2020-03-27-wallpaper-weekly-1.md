@@ -22,3 +22,4 @@ This week's example illustrates my point. While it's quite a detailed image, the
 
 I captured this last weekend on a walk through the French Concession in Shanghai. I wasn't paying attention, but the area of white, where the blue-grey paint had flaked off caught my eye in passing. I doubled back and took a quick snap. Once I got home, all that I did to process it was to crop to 16:9 ratio and add a slight vignette.
 
+This wallpaper, and all of my other wallpapers, is available for free download. You can view the whole set [here](https://tramfishers.com/wallpapers).
