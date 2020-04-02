@@ -11,7 +11,7 @@ image:
   feature: /img/terragen.jpg
 snippet: Fifth of a series of posts dedicated to the many cameras that I have owned over the years. While some posts may focus on my thoughts about the camera itself, for others, I hope to dig up some remote memories
 ---
-<img src="/img/terragen2.jpg" alt="Landsqcape with Terragen" />
+<img src="/img/terragen2.jpg" alt="Landscape with Terragen" />
 
 _It's hard to believe that a hobby program from a student at York University would be the catalyst to get me back into photography, but that's exactly what happened in the late nineties. I cannot deny that, photographically, I'd lost my way at that time. In career terms, things were going well, I had left the offshore life in 1994 after a year posted to China and started working in the newspaper industry as an advertising systems engineer. On the personal front, however, it was pretty awful. And that is all that I'm going to say on that subject. It's water under the bridge._
 <!--more-->
