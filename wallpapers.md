@@ -4,7 +4,7 @@ title: Wallpapers
 permalink: /wallpapers/
 snippet: A new page showing thumbnails for all of my free wallpapers that have now been open sourced on github.
 images:
- -  metal-fence.jpg
+ -  metalfence.jpg
  -  wall.jpg
  -  mudflats.jpg
  -  powerstation.jpg
