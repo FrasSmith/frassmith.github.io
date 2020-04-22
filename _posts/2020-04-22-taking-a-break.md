@@ -32,7 +32,7 @@ Returning to the present. I still like writing, on my terms, about subjects that
 
 Earlier this year, a friend started posting with the #Write52 hashtag. I investigated and found the [Write52](https://www.write52.com/) project where people try to write and publish one post per week. It sounded like fun. This also coincided with the first weeks of lockdown in China so I also had something to write about. Three months later, and it's not so much fun anymore. I missed last week completely, despite having three good ideas for posts. The previous week, my whole post was a haiku. The problem is that the drive to come up with something every week has become a chore. It's no longer fun. So, I've decided that this will be my final regular #Write52 post.
 
-Am I going to stop writing? No, after all I've still got three good ideas to write about.
+Am I going to stop writing? No, after all, I've still got three good ideas to write about.
 
 It's just that I'll be writing on my terms when I want to. No pressure. Maybe I'll even tag some future posts as #Write52 in the cheeky hope that I might garner a few views from it.
 
