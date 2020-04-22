@@ -5,7 +5,7 @@ date: 2020-04-22 18:33
 category:
 author: Fraser Smith
 tags: [writing, write52, tnw, TheNextWeb]
-summary: I've decided to take a break from the gruelling schedule (LOL) of write52 posting.
+summary: I've decided to take a break from the grueling schedule (LOL) of write52 posting.
 ---
 <img src="/img/people.jpg" alt="Random people sitting on a bench" />
 
@@ -34,6 +34,6 @@ Earlier this year, a friend started posting with the #Write52 hashtag. I investi
 
 Am I going to stop writing? No, after all I've still got three good ideas to write about.
 
-It's just that I'll be writing on my terms, when I want to. No pressure. Maybe I'll even tag some future posts as #Write52 in the cheeky hope that I might garner a few views from it.
+It's just that I'll be writing on my terms when I want to. No pressure. Maybe I'll even tag some future posts as #Write52 in the cheeky hope that I might garner a few views from it.
 
 See you.
