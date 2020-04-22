@@ -4,6 +4,16 @@
 <!-- blog posts -->
 
     <url>
+        <loc>http://localhost:4000/2020/04/22/taking-a-break</loc>
+        <lastmod>2020-04-22 18:33:00 +0800</lastmod>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2020/04/15/flat-as-a-pancake</loc>
+        <lastmod>2020-04-15 15:55:00 +0800</lastmod>
+    </url>
+
+    <url>
         <loc>http://localhost:4000/2020/04/09/springtime</loc>
         <lastmod>2020-04-09 13:40:00 +0800</lastmod>
     </url>
