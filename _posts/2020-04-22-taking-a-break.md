@@ -4,8 +4,8 @@ title: Time for a Break
 date: 2020-04-22 18:33
 category:
 author: Fraser Smith
-tags: [writing, write52, tnw, TheNextWeb, enough]
-summary:
+tags: [writing, write52, tnw, TheNextWeb]
+summary: I've decided to take a break from the gruelling schedule (LOL) of write52 posting.
 ---
 <img src="/img/people.jpg" alt="Random people sitting on a bench" />
 
