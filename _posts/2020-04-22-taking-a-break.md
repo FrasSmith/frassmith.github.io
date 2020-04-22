@@ -16,15 +16,15 @@ _― Woody Allen_
 
 About fifteen years ago, I discovered that I enjoyed writing. I think I discovered it most when a popular blog shared one of my posts, and I experienced the frisson of a post gaining ten thousand views in twelve hours.
 
-A few years later, I had relocated to Shanghai and had an educational startup. I was writing weekly blog posts for this company and enjoying the process. Late in 2010, a twitter friend (Hi @zee!) posted that his company was looking for somebody in Asia to write about tech subjects from Asia. I jumped at the opportunity. While I had worked in the publishing industry for thirteen years, it was in a technical role. I wasn't a trained journalist. But I enjoyed writing. I felt I could do this.
+A few years later, I had relocated to Shanghai and had an educational startup. I was writing weekly blog posts for this company and enjoying the process. Late in 2010, a twitter friend, (hi [@zee](https://twitter.com/zee)), posted that his company was looking for somebody in Asia to write about tech subjects from Asia. I jumped at the opportunity. While I had worked in the publishing industry for thirteen years, it was in a technical role. I wasn't a trained journalist. But I enjoyed writing. I felt I could do this.
 
-I joined TNW in the autumn of 2010 as its "Asia Editor". How cool is that? An editor. Me?
+I joined [TNW](https://thenextweb.com) in the autumn of 2010 as its "Asia Editor". How cool is that? An editor. Me?
 
 It was a nightmare.
 
 In part, in the beginning, I suffered from imposter syndrome, _I wasn't a real writer_. Luckily the team was great and helped the new boy out. However, what I couldn't get used to was the writing to order. I was expected to publish at least three stories a day, five days a week. The stories didn't have to be too long but I found the pressure incredible. Especially on Mondays. Tech news usually moves to US West coast time. On Mondays in Asia, not much tech stuff happens until, well, Tuesday.
 
-My other problem was that, before TNW, I wrote about things that interest me. I still do. Working for TNW, there were times when a story came up that had to be written and published within fifteen minutes (to beat Techcrunch and Mashable). Even if the subject matter was of little interest to the average techie (or me), the scoop was the goal, not the subject. I struggled with this.
+My other problem was that, before TNW, I wrote about things that interest me. I still do. Working for TNW, there were times when a story came up that had to be written and published within fifteen minutes (to beat [Techcrunch](https://techcrunch.com) and [Mashable](https://mashable.com)). Even if the subject matter was of little interest to the average techie (or me), the scoop was the goal, not the subject. I struggled with this.
 
 A couple of months later I was relieved when TNW sacked me (Thanks @zee!). It is the only time in my career that I've been sacked and I never expected to feel so happy about it. But I did.
 
