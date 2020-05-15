@@ -4,6 +4,9 @@ title: Wallpapers
 permalink: /wallpapers/
 snippet: A new page showing thumbnails for all of my free wallpapers that have now been open sourced on github.
 images:
+ -  high-key-bw-leaf.jpg
+ -  macro-dirt.jpg
+ -  high-key-col-leaf.jpg
  -  metalfence.jpg
  -  wall.jpg
  -  mudflats.jpg
