@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lightning Strikes Twice
-subtitle: Two techniques for photographing lightning.
+title: Camera Life 6
+subtitle: Part 6 - Lightning Strikes Twice
 date: 2020-08-13 12:00
 category: tutorial, photography
 author: Fraser Smith
