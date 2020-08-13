@@ -4,6 +4,12 @@ title: Wallpapers
 permalink: /wallpapers/
 snippet: A new page showing thumbnails for all of my free wallpapers that have now been open sourced on github.
 images:
+ -  lightning-denoised.jpg
+ -  coffee-oil-2.jpg
+ -  coffee-oil.jpg
+ -  kriss-kross.jpg
+ -  oil-soil.jpg
+ -  windows-oil.jpg
  -  high-key-bw-leaf.jpg
  -  macro-dirt.jpg
  -  high-key-col-leaf.jpg
