@@ -11,8 +11,7 @@ I'm Fraser Smith, a fifty mumble mumble something year old developer and amateur
 You can also find me on:
 
 - [Twitter](https://twitter.com/frassmith)
-- [Facebook](https://facebook.com/fras.smith)
-- [Instagram](https://instagram.com/frassmith)
+- [Facebook](https://facebook.com/fras.smith) (Taking a break)
 - [Flickr](https://flickr.com/frasshanghai)
 - [LinkedIn](https://linkedin.com/in/frassmith)
 - [Glenelg](https://glenelg.net)
