@@ -10,7 +10,7 @@ summary: In a photography hobby career spanning more than fifty years, I have ma
 ---
 <img src="/img/lightning-banner.jpg" alt="Lightning Flashes Across The Sky" />
 
-If you have been following my sporadic posts about [_Camera Life_](https://www.tramfishers.com/2019/10/17/a-life-in-cameras-1), you'll be aware that I've been a camera owner (and therefore a hobbyist photographer) for over fifty years. In that time, I have only managed to photograph lightning successfully twice. Each time I used a different technique and each time I succeeded… eventually.
+_If you have been following my sporadic posts about [_Camera Life_](https://www.tramfishers.com/2019/10/17/a-life-in-cameras-1), you'll be aware that I've been a camera owner (and therefore a hobbyist photographer) for over fifty years. In that time, I have only managed to photograph lightning successfully twice. Each time I used a different technique and each time I succeeded… eventually._
 <!--more-->
 
 For the first thirty years of my photography hobby I shot with 35mm film. Even trying to photograph lightning would be a very wasteful and costly endeavor. Living in the UK didn't help, lightning just isn't that common. Later, when I started traveling and spending more time in the tropics I did see more storms, but I was usually working offshore so trying to photograph lightning could easily have used up my whole trip's film supply with no hope of replenishment.
