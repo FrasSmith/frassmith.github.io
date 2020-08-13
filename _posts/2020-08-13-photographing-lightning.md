@@ -40,3 +40,5 @@ The image above is a composite of two consecutive images about 100ms apart. The 
 _Technique: Manually focus on infinity, set the camera to burst shooting, and press and hold the shutter down when you think there's going to be a fork._
 
 Neither of these methods is particularly reliable. You will end up with hundreds of exposures of dark skies or glowing clouds. You will also miss some beauties and capture some boring strikes. Such is life. However, if you persevere you can get results.
+
+I've made a wallpaper version of the second image with a 16:9 aspect ratio available for free download [here](https://tramfishers.com/wallpapers).
