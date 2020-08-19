@@ -18,7 +18,13 @@ My conversion came in early 2009. We were planning our move to Shanghai and it w
 
 My wife's Macbook Air was sleek and svelt and quickly introduced us to an issue common to many sleek and svelt laptops today. Thermal throttling. You could say that Apple led the world on this. Every summer in Shanghai, that Macbook Air became useless as it shut down and limited its CPU at the slightest sign of warmth.
 
-My unibody Macbook was ideal for me. I bought the base model and immediately upgraded the memory and hard drive with third party purchases, saving a huge amount over Apple's in-store options. In 2013 I replaced it with a Macbook Pro. Even by then, I had to buy a maxed-out version as Apple had removed most of the possibilities for self upgrades. As an aside, that original unibody Macbook is still going strong. In the last couple of years, it has had a new battery and an SSD installed and it's working just fine as my youngest's computer.
+My unibody Macbook was ideal for me. I bought the base model and immediately upgraded the memory and hard drive with third party purchases, saving a huge amount over Apple's in-store options. In 2013 I replaced it with a Macbook Pro. Even by then, however, I had to buy a maxed-out version as Apple had removed most of the possibilities for self upgrades. As an aside, that original unibody Macbook is still going strong. In the last couple of years, it has had a new battery and an SSD installed and it's working just fine as my youngest's computer.
+
+One thing led to another. Soon, an iPad joined the fleet followed by iPhones, more iPads, and an Apple Watch. We were very much an Apple household.
+
+But, all was not well. the Macbook Air rapidly became useless in the summertime due to thermal throttling. It had to be retired after a couple of years when the WiFi failed. The polycarbonate Macbook suffered from a major battery swelling and keyboard problems soon after.
+
+Life has become a constant struggle with failing lightning ports on phones and iPads. As if on cue from Apple, an iPhone X battery health switched to "Service", literally on the day that Apple announced new iPhones, two years after the iPhone X launch.
 
 
 
