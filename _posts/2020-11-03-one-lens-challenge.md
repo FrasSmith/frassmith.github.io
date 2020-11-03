@@ -7,7 +7,10 @@ author: Fraser Smith
 tags: [OneLensChallenge, Canon, EOS-M5, 7Artisans, Manual Lens]
 summary: I have decided to attempt the Single Lens Challenge for the month of November, 2020.
 ---
-<img src="/img/m5-35.jpg" alt="EOS-M5 7Artisans 35mm f1.2" class="lft" />A few days ago, I watched [this post on YouTube](https://www.youtube.com/watch?v=bKMaEAxPskU). It seemed like a fun idea so I decided to give it a try. (If you couldn't be bothered to watch the video, the assignment is to use a single prime lens for all of your personal photography for the month of November.)
+<img src="/img/lens.jpg" alt="EOS-M5 7Artisans 35mm f1.2" />
+
+A few days ago, I watched [this post on YouTube](https://www.youtube.com/watch?v=bKMaEAxPskU). It seemed like a fun idea so I decided to give it a try. (If you couldn't be bothered to watch the video, the assignment is to use a single prime lens for all of your personal photography for the month of November.)
+<!--more-->
 
 So, I had to decide which lens to use on my Canon EOS-M5. I have five prime lenses at present. In order of focal length they are:
 
