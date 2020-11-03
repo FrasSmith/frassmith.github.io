@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The ONE LENS Photography Challenge
+title: The ONE LENS Challenge
 date: 2020-11-03 19:06
 category:
 author: Fraser Smith
