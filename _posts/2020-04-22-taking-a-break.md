@@ -11,7 +11,7 @@ summary: I've decided to take a break from the grueling schedule (LOL) of write5
 
 _“I'd never join a club that would allow a person like me to become a member.”_
 
-_― Woody Allen_
+_― Groucho Marx_
 <!--more-->
 
 About fifteen years ago, I discovered that I enjoyed writing. I think I discovered it most when a popular blog shared one of my posts, and I experienced the frisson of a post gaining ten thousand views in twelve hours.
