@@ -23,14 +23,3 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-navbar:
- - name: "About"
-   link: "about"
- - name: "Tags"
-   link: "tags"
- - name: "Feed"
-   link: "feed"
-#  - name: "Wallpapers"
-#   link: "wallpapers"
-
