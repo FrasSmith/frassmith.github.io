@@ -5,7 +5,7 @@ subtitle: Words and Images and Stuff
 url: "https://www.tramfishers.com"
 baseurl: ""
 
-# imagebase: "https://raw.githubusercontent.com/FrasSmith/wallpapers/master/images/"
+imagebase: "https://raw.githubusercontent.com/FrasSmith/wallpapers/master/images/"
 
 # profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.ico

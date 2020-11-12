@@ -169,10 +169,11 @@ images:
 ---
 The thumbnails below link directly to higher resolution versions of the images. To download an individual file click on its thumbnail to open a full-size version in a new tab and then right-click to save the file.
 
-<div>
+<div class="image-gallery">
     {% for img in page.images %}
     <a href="{{site.imagebase}}{{ img }}" data-fancybox="gallery" >
-        <img class="galpic" src="{{site.imagebase}}{{ img }}" />
+<!--        <img class="galpic" src="{{site.imagebase}}{{ img }}" /> -->
+        <img src="//images.weserv.nl/?url={{site.imagebase}}{{ img }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" />
     </a>
     {% endfor %}
 </div>
