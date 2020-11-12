@@ -1,4 +1,174 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-12T07:15:20+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">TramFishers Total Landscaping</title><author><name>Fraser Smith</name></author><entry><title type="html">The ONE LENS Challenge</title><link href="http://localhost:4000/2020/11/03/one-lens-challenge" rel="alternate" type="text/html" title="The ONE LENS Challenge" /><published>2020-11-03T19:06:00+08:00</published><updated>2020-11-03T19:06:00+08:00</updated><id>http://localhost:4000/2020/11/03/one-lens-challenge</id><content type="html" xml:base="http://localhost:4000/2020/11/03/one-lens-challenge">&lt;p&gt;&lt;img src=&quot;/img/lens.jpg&quot; alt=&quot;EOS-M5 7Artisans 35mm f1.2&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-12T08:53:31+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">TramFishers Total Landscaping</title><author><name>Fraser Smith</name></author><entry><title type="html">Images from the One Lens Challenge</title><link href="http://localhost:4000/2020/11/12/one-lens-challenge-images" rel="alternate" type="text/html" title="Images from the One Lens Challenge" /><published>2020-11-12T08:09:00+08:00</published><updated>2020-11-12T08:09:00+08:00</updated><id>http://localhost:4000/2020/11/12/one-lens-challenge-images</id><content type="html" xml:base="http://localhost:4000/2020/11/12/one-lens-challenge-images">&lt;p&gt;&lt;img src=&quot;/img/lens.jpg&quot; alt=&quot;EOS-M5 7Artisans 35mm f1.2&quot; /&gt;
+&lt;em&gt;A gallery of images from my One Lens Challenge in November 2020. All images taken with Canon EOS-M5 with the 7Artisans 35mm f1.2 lens.&lt;/em&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;div&gt;
+    
+    &lt;a href=&quot;/img/one-lens/olc1.jpg&quot; data-fancybox=&quot;gallery&quot;&gt;
+        &lt;img class=&quot;galpic&quot; src=&quot;/img/one-lens/olc1.jpg&quot; /&gt;
+    &lt;/a&gt;
+    
+    &lt;a href=&quot;/img/one-lens/olc2.jpg&quot; data-fancybox=&quot;gallery&quot;&gt;
+        &lt;img class=&quot;galpic&quot; src=&quot;/img/one-lens/olc2.jpg&quot; /&gt;
+    &lt;/a&gt;
+    
+&lt;/div&gt;
+&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;
+
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+    .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery a img {width: 100%; display: block;}
+  &lt;/style&gt;
+
+&lt;div class=&quot;image-gallery&quot;&gt;
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      
+
+        
+        
+        /img/one-lens/olc1.jpg
+        ...
+        olc1
+        ...
+        &lt;a href=&quot;/img/one-lens/olc1.jpg&quot; title=&quot;olc1&quot;&gt;
+          &lt;img src=&quot;//images.weserv.nl/?url=tramfishers.com/img/one-lens/olc1.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;olc1&quot; /&gt;
+          &lt;span&gt;olc1&lt;/span&gt;
+        &lt;/a&gt;
+      
+    
+  
+    
+      
+
+        
+        
+        /img/one-lens/olc2.jpg
+        ...
+        olc2
+        ...
+        &lt;a href=&quot;/img/one-lens/olc2.jpg&quot; title=&quot;olc2&quot;&gt;
+          &lt;img src=&quot;//images.weserv.nl/?url=tramfishers.com/img/one-lens/olc2.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;olc2&quot; /&gt;
+          &lt;span&gt;olc2&lt;/span&gt;
+        &lt;/a&gt;
+      
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+  &lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;//images.weserv.nl/?url=images.weserv.nl/lichtenstein.jpg&amp;amp;w=300&amp;amp;h=300&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;http://localhost:4000/img/one-lens/olc1.jpg&lt;/p&gt;</content><author><name>Fraser Smith</name></author><category term="OneLensChallenge" /><category term="Canon" /><category term="EOS-M5" /><category term="7Artisans" /><category term="Manual Lens" /><summary type="html">A gallery of images from my One Lens Challenge in November 2020. All images taken with Canon EOS-M5 with the 7Artisans 35mm f1.2 lens.</summary></entry><entry><title type="html">The ONE LENS Challenge</title><link href="http://localhost:4000/2020/11/03/one-lens-challenge" rel="alternate" type="text/html" title="The ONE LENS Challenge" /><published>2020-11-03T19:06:00+08:00</published><updated>2020-11-03T19:06:00+08:00</updated><id>http://localhost:4000/2020/11/03/one-lens-challenge</id><content type="html" xml:base="http://localhost:4000/2020/11/03/one-lens-challenge">&lt;p&gt;&lt;img src=&quot;/img/lens.jpg&quot; alt=&quot;EOS-M5 7Artisans 35mm f1.2&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;A few days ago, I watched &lt;a href=&quot;https://www.youtube.com/watch?v=bKMaEAxPskU&quot;&gt;this post on YouTube&lt;/a&gt;. It seemed like a fun idea so I decided to give it a try. (If you didn’t have time to watch the video, the assignment is to use a single prime lens for all of your personal photography for the month of November.)&lt;/em&gt;
 &lt;!--more--&gt;&lt;/p&gt;
@@ -181,45 +351,4 @@ Unseen in winter. &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;It’s ironic that when I was thinking about this post, which was to be about G. E. Williamson’s, I could remember so many details about the shop and its staff but I couldn’t remember the name. I searched online but found nothing. Finally, I asked my sister if she or my brother-in-law knew? They didn’t, but she suggested I ask Ron Young. Ron was an old friend of the family from that time, a member of the same Scout group as me, and is now a professional photographer. As my sister pointed out, he also worked at that end of town for a while. I found Ron’s email address on his website &lt;a href=&quot;http://www.ronyoungphotography.co.uk/RON_YOUNG_PHOTOGRAPHY/profile.html&quot; target=&quot;_blank&quot;&gt;“Ronald Young Photography”&lt;/a&gt;. Ron did indeed know the name of the shop. He also reminded me of the fact that he had also worked at James Kerr and Co. when he was a student, a few years before me. It was Ron who had given me Tom Simmonds as the person to contact to ask for a job. I also learned from Ron, that Ted McCosh bought his camera equipment from Williamson’s and was friends with George Williamson the founder and owner of that shop.&lt;/p&gt;
 
-&lt;p&gt;Over a short email conversation, we speculated about what became of Tom and Ted. I managed to find a Daily Telegraph notice online. Ted passed away in 2010 at his home in Lanarkshire. He was 84 years old. As a 17-year-old part-time shop assistant, I had always thought of him as being old. In truth, when I started at Kerr’s, this gruff, scary man, Ted, was 53. Four years younger than I am now. That’s certainly something to make you think.&lt;/p&gt;</content><author><name>Fraser Smith</name></author><category term="cameras" /><category term="photography" /><category term="gas" /><category term="autobiographical" /><category term="Glasgow" /><category term="Minolta XG/M" /><category term="Minolta" /><category term="SLR" /><category term="G. E. Williamsons" /><category term="James Kerr and Co." /><category term="Glasgow" /><summary type="html">I often think of the XG/M as my first SLR camera. It wasn’t. I’d had a Praktica SLR for some time already, but I had no lenses other than the kit lens and it used a screw mount which was notoriously tricky and slow to use. So, the Minolta with its bayonet mount was the first SLR that I had additional lenses for, the first one that I took seriously. However, this post isn’t about that camera (well, maybe it is a little).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22feature%22=%3E%22/img/cameras/xgm.jpg%22%7D" /><media:content medium="image" url="http://localhost:4000/%7B%22feature%22=%3E%22/img/cameras/xgm.jpg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Five Things to do Under Lockdown</title><link href="http://localhost:4000/2020/03/04/five-things-to-do-under-lockdown" rel="alternate" type="text/html" title="Five Things to do Under Lockdown" /><published>2020-03-04T12:00:00+08:00</published><updated>2020-03-04T12:00:00+08:00</updated><id>http://localhost:4000/2020/03/04/five-things-to-do-under-lockdown</id><content type="html" xml:base="http://localhost:4000/2020/03/04/five-things-to-do-under-lockdown">&lt;p&gt;&lt;img src=&quot;/img/garlic.jpg&quot; alt=&quot;Time to learn to cook some garlic&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So here we are at post number 5 about life under lockdown in Shanghai. As the situation shows signs of improvement in China but deteriorates in other countries, I bring you some suggestions, in no particular order of importance, for those about to experience their own life under lockdown.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Work&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;This is probably a no-brainer for anyone who has a job, but finds that they are unable to go to their place of work. I’m lucky, I’m already a remote worker so adjusting to lockdown life hasn’t been difficult for me. My advice to those of you experiencing this for the first time is to “set boundaries”, both physical, and chronological. Try to find a location where you can work uninterrupted by your family and focus on your work. However, just because your place of work is now within your home, that doesn’t mean you have to work at all hours of the day. Try to keep to normal business hours.&lt;/p&gt;
-
-    &lt;p&gt;Of course, with family at home too and possibly with kids taking part in e-learning program, this may not always be easy. Flexibility will be required.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Cook&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;This has been quite a common pastime for people under lockdown in China. It makes sense. If you’re out at work all day, the last thing you want to do when you get home is spend hours in the kitchen preparing a meal. It’s all too easy to order takeaway or warm up left-overs from the weekend. Suddenly, you find yourself with time on your hands. Why not open that recipe page on your smartphone and have some fun?&lt;/p&gt;
-
-    &lt;p&gt;I confess that this has applied more to my wife than to me, but I have managed to bake some garlic (Yay! I’m a kitchen hero!) and produce a pretty mean baked spaghetti casserole sort of thing where the ingredients at hand didn’t properly overlap with those required by the recipe. I improvised. Nobody complained, seconds were requested, and we all survived.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Keep Fit&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;No more commute. No more visits to the gym (as if I ever did). All that great(?) new food. It all takes its toll on the waistline. You need to do something to compensate for all the everyday exercise that you’re missing due to lockdown. I have an exercise bike (two years old, very low mileage, one careful owner) that I’ve reluctantly started using again to (in Apple parlance) &lt;em&gt;close my ring&lt;/em&gt; every day. You don’t need a bike, I’m sure you can find your own preferred means to &lt;em&gt;close your ring&lt;/em&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Try a new hobby&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;You’re going to have time on your hands. Take this as an opportunity try a new hobby or learn something you’ve always wanted to learn but have never had the time for. I’ve always wanted to do more writing. Even a short stint at a reasonably famous tech blog, that let’s be honest, I didn’t enjoy at all (they sacked me, and I was so glad) didn’t kill that desire.&lt;/p&gt;
-
-    &lt;p&gt;This lockdown plus me hearing about the &lt;a href=&quot;https://www.write52.com/&quot;&gt;Write52&lt;/a&gt; project at the beginning has resulted in these posts. Five down, forty-seven to go.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Watch obscure stuff and learn&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;Ok, this one is a bit obscure. I tend to watch a lot of videos on YouTube in the evenings. Photography and science videos are a favourite. With more time, I found I was running out of my staples and I strayed into geekier territory. It’s great, honestly. I can watch and learn at the same time. For the techies out there I have actually found myself; watching geeks do presentations about ‘vim’ and ‘emacs’; I’ve watched people live stream Windows XP installations; I’ve… well enough. I think I’ve dug a deep enough hole already.&lt;/p&gt;
-
-    &lt;p&gt;My point is, there’s lots out there and there’s no harm in following random interests to keep the brain cells ticking over.&lt;/p&gt;
-
-    &lt;p&gt;All the best.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Fraser Smith</name></author><category term="life" /><category term="coronavirus" /><category term="covid-19" /><category term="shanghai" /><category term="china" /><category term="lockdown" /><category term="write52" /><summary type="html">So here we are at post number 5 about life under lockdown in Shanghai. As the situation shows signs of improvement in China but deteriorates in other countries, I bring you some suggestions, in no particular order of importance, for those about to experience their own life under lockdown.</summary></entry></feed>
+&lt;p&gt;Over a short email conversation, we speculated about what became of Tom and Ted. I managed to find a Daily Telegraph notice online. Ted passed away in 2010 at his home in Lanarkshire. He was 84 years old. As a 17-year-old part-time shop assistant, I had always thought of him as being old. In truth, when I started at Kerr’s, this gruff, scary man, Ted, was 53. Four years younger than I am now. That’s certainly something to make you think.&lt;/p&gt;</content><author><name>Fraser Smith</name></author><category term="cameras" /><category term="photography" /><category term="gas" /><category term="autobiographical" /><category term="Glasgow" /><category term="Minolta XG/M" /><category term="Minolta" /><category term="SLR" /><category term="G. E. Williamsons" /><category term="James Kerr and Co." /><category term="Glasgow" /><summary type="html">I often think of the XG/M as my first SLR camera. It wasn’t. I’d had a Praktica SLR for some time already, but I had no lenses other than the kit lens and it used a screw mount which was notoriously tricky and slow to use. So, the Minolta with its bayonet mount was the first SLR that I had additional lenses for, the first one that I took seriously. However, this post isn’t about that camera (well, maybe it is a little).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22feature%22=%3E%22/img/cameras/xgm.jpg%22%7D" /><media:content medium="image" url="http://localhost:4000/%7B%22feature%22=%3E%22/img/cameras/xgm.jpg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
