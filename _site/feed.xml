@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-12T08:53:31+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">TramFishers Total Landscaping</title><author><name>Fraser Smith</name></author><entry><title type="html">Images from the One Lens Challenge</title><link href="http://localhost:4000/2020/11/12/one-lens-challenge-images" rel="alternate" type="text/html" title="Images from the One Lens Challenge" /><published>2020-11-12T08:09:00+08:00</published><updated>2020-11-12T08:09:00+08:00</updated><id>http://localhost:4000/2020/11/12/one-lens-challenge-images</id><content type="html" xml:base="http://localhost:4000/2020/11/12/one-lens-challenge-images">&lt;p&gt;&lt;img src=&quot;/img/lens.jpg&quot; alt=&quot;EOS-M5 7Artisans 35mm f1.2&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-12T08:55:52+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">TramFishers Total Landscaping</title><author><name>Fraser Smith</name></author><entry><title type="html">Images from the One Lens Challenge</title><link href="http://localhost:4000/2020/11/12/one-lens-challenge-images" rel="alternate" type="text/html" title="Images from the One Lens Challenge" /><published>2020-11-12T08:09:00+08:00</published><updated>2020-11-12T08:09:00+08:00</updated><id>http://localhost:4000/2020/11/12/one-lens-challenge-images</id><content type="html" xml:base="http://localhost:4000/2020/11/12/one-lens-challenge-images">&lt;p&gt;&lt;img src=&quot;/img/lens.jpg&quot; alt=&quot;EOS-M5 7Artisans 35mm f1.2&quot; /&gt;
 &lt;em&gt;A gallery of images from my One Lens Challenge in November 2020. All images taken with Canon EOS-M5 with the 7Artisans 35mm f1.2 lens.&lt;/em&gt;
-&lt;!--more--&gt;&lt;/p&gt;
+&lt;!--more--&gt;
+&amp;lt;!–&amp;gt;&lt;/p&gt;
 &lt;div&gt;
     
     &lt;a href=&quot;/img/one-lens/olc1.jpg&quot; data-fancybox=&quot;gallery&quot;&gt;
@@ -13,7 +14,7 @@
     
 &lt;/div&gt;
 &lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;
-
+&lt;p&gt;–&amp;gt;&lt;/p&gt;
 &lt;style&gt;
     .image-gallery {overflow: auto; margin-left: -1%!important;}
     .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
@@ -108,10 +109,6 @@
 
         
         
-        /img/one-lens/olc1.jpg
-        ...
-        olc1
-        ...
         &lt;a href=&quot;/img/one-lens/olc1.jpg&quot; title=&quot;olc1&quot;&gt;
           &lt;img src=&quot;//images.weserv.nl/?url=tramfishers.com/img/one-lens/olc1.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;olc1&quot; /&gt;
           &lt;span&gt;olc1&lt;/span&gt;
@@ -124,10 +121,6 @@
 
         
         
-        /img/one-lens/olc2.jpg
-        ...
-        olc2
-        ...
         &lt;a href=&quot;/img/one-lens/olc2.jpg&quot; title=&quot;olc2&quot;&gt;
           &lt;img src=&quot;//images.weserv.nl/?url=tramfishers.com/img/one-lens/olc2.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;olc2&quot; /&gt;
           &lt;span&gt;olc2&lt;/span&gt;
@@ -165,10 +158,7 @@
   
     
   
-  &lt;/div&gt;
-&lt;p&gt;&lt;img src=&quot;//images.weserv.nl/?url=images.weserv.nl/lichtenstein.jpg&amp;amp;w=300&amp;amp;h=300&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;http://localhost:4000/img/one-lens/olc1.jpg&lt;/p&gt;</content><author><name>Fraser Smith</name></author><category term="OneLensChallenge" /><category term="Canon" /><category term="EOS-M5" /><category term="7Artisans" /><category term="Manual Lens" /><summary type="html">A gallery of images from my One Lens Challenge in November 2020. All images taken with Canon EOS-M5 with the 7Artisans 35mm f1.2 lens.</summary></entry><entry><title type="html">The ONE LENS Challenge</title><link href="http://localhost:4000/2020/11/03/one-lens-challenge" rel="alternate" type="text/html" title="The ONE LENS Challenge" /><published>2020-11-03T19:06:00+08:00</published><updated>2020-11-03T19:06:00+08:00</updated><id>http://localhost:4000/2020/11/03/one-lens-challenge</id><content type="html" xml:base="http://localhost:4000/2020/11/03/one-lens-challenge">&lt;p&gt;&lt;img src=&quot;/img/lens.jpg&quot; alt=&quot;EOS-M5 7Artisans 35mm f1.2&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;</content><author><name>Fraser Smith</name></author><category term="OneLensChallenge" /><category term="Canon" /><category term="EOS-M5" /><category term="7Artisans" /><category term="Manual Lens" /><summary type="html">A gallery of images from my One Lens Challenge in November 2020. All images taken with Canon EOS-M5 with the 7Artisans 35mm f1.2 lens.</summary></entry><entry><title type="html">The ONE LENS Challenge</title><link href="http://localhost:4000/2020/11/03/one-lens-challenge" rel="alternate" type="text/html" title="The ONE LENS Challenge" /><published>2020-11-03T19:06:00+08:00</published><updated>2020-11-03T19:06:00+08:00</updated><id>http://localhost:4000/2020/11/03/one-lens-challenge</id><content type="html" xml:base="http://localhost:4000/2020/11/03/one-lens-challenge">&lt;p&gt;&lt;img src=&quot;/img/lens.jpg&quot; alt=&quot;EOS-M5 7Artisans 35mm f1.2&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;A few days ago, I watched &lt;a href=&quot;https://www.youtube.com/watch?v=bKMaEAxPskU&quot;&gt;this post on YouTube&lt;/a&gt;. It seemed like a fun idea so I decided to give it a try. (If you didn’t have time to watch the video, the assignment is to use a single prime lens for all of your personal photography for the month of November.)&lt;/em&gt;
 &lt;!--more--&gt;&lt;/p&gt;

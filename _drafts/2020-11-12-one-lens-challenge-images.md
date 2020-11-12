@@ -13,6 +13,7 @@ images:
 <img src="/img/lens.jpg" alt="EOS-M5 7Artisans 35mm f1.2" />
 _A gallery of images from my One Lens Challenge in November 2020. All images taken with Canon EOS-M5 with the 7Artisans 35mm f1.2 lens._
 <!--more-->
+<!-->
 <div>
     {% for img in page.images %}
     <a href="/img/one-lens/{{ img }}" data-fancybox="gallery" >
@@ -21,5 +22,5 @@ _A gallery of images from my One Lens Challenge in November 2020. All images tak
     {% endfor %}
 </div>
 <div style="clear:both;"></div>
-
+-->
 {% include image-gallery.html folder="/img/one-lens" %}
