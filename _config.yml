@@ -10,7 +10,7 @@ imagebase: "https://raw.githubusercontent.com/FrasSmith/wallpapers/master/images
 # profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.ico
 
-footer_text: Copyright 2020, Fraser Smith, TramFishers.
+footer_text: Fraser Smith, TramFishers, :year.
 
 permalink: /:year/:month/:day/:title
 
