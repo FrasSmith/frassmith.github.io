@@ -4,6 +4,14 @@ title: Wallpapers
 permalink: /wallpapers/
 snippet: A new page showing thumbnails for all of my free wallpapers that have now been open sourced on github.
 images:
+ -  ybax.jpg
+ -  ice4.jpg
+ -  ice3.jpg
+ -  ice2.jpg
+ -  ice1.jpg
+ -  spring.jpg
+ -  cubes.jpg
+ -  crossings.jpg
  -  lightning-denoised.jpg
  -  coffee-oil-2.jpg
  -  coffee-oil.jpg
