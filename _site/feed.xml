@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-12T14:42:30+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">TramFishers Total Landscaping</title><author><name>Fraser Smith</name></author><entry><title type="html">Images from the One Lens Challenge</title><link href="http://localhost:4000/2020/11/12/one-lens-challenge-images" rel="alternate" type="text/html" title="Images from the One Lens Challenge" /><published>2020-11-12T08:09:00+08:00</published><updated>2020-11-12T08:09:00+08:00</updated><id>http://localhost:4000/2020/11/12/one-lens-challenge-images</id><content type="html" xml:base="http://localhost:4000/2020/11/12/one-lens-challenge-images">&lt;p&gt;&lt;img src=&quot;/img/lens.jpg&quot; alt=&quot;EOS-M5 7Artisans 35mm f1.2&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-12T14:45:30+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">TramFishers Total Landscaping</title><author><name>Fraser Smith</name></author><entry><title type="html">Images from the One Lens Challenge</title><link href="http://localhost:4000/2020/11/12/one-lens-challenge-images" rel="alternate" type="text/html" title="Images from the One Lens Challenge" /><published>2020-11-12T08:09:00+08:00</published><updated>2020-11-12T08:09:00+08:00</updated><id>http://localhost:4000/2020/11/12/one-lens-challenge-images</id><content type="html" xml:base="http://localhost:4000/2020/11/12/one-lens-challenge-images">&lt;p&gt;&lt;img src=&quot;/img/lens.jpg&quot; alt=&quot;EOS-M5 7Artisans 35mm f1.2&quot; /&gt;
 &lt;em&gt;A gallery of images from my One Lens Challenge in November 2020. All images taken with Canon EOS-M5 with the 7Artisans 35mm f1.2 lens.&lt;/em&gt;
 &lt;!--more--&gt;&lt;/p&gt;
 &lt;div class=&quot;image-gallery&quot;&gt;
@@ -88,7 +88,7 @@
 
         
         
-        &lt;a href=&quot;/img/one-lens/olc1.jpg&quot; title=&quot;olc1&quot;&gt;
+        &lt;a href=&quot;/img/one-lens/olc1.jpg&quot; data-fancybox=&quot;gallery&quot; title=&quot;olc1&quot;&gt;
           &lt;img src=&quot;//images.weserv.nl/?url=tramfishers.com/img/one-lens/olc1.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;olc1&quot; /&gt;
         &lt;/a&gt;
       
@@ -99,7 +99,7 @@
 
         
         
-        &lt;a href=&quot;/img/one-lens/olc2.jpg&quot; title=&quot;olc2&quot;&gt;
+        &lt;a href=&quot;/img/one-lens/olc2.jpg&quot; data-fancybox=&quot;gallery&quot; title=&quot;olc2&quot;&gt;
           &lt;img src=&quot;//images.weserv.nl/?url=tramfishers.com/img/one-lens/olc2.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;olc2&quot; /&gt;
         &lt;/a&gt;
       
@@ -110,7 +110,7 @@
 
         
         
-        &lt;a href=&quot;/img/one-lens/olc3.jpg&quot; title=&quot;olc3&quot;&gt;
+        &lt;a href=&quot;/img/one-lens/olc3.jpg&quot; data-fancybox=&quot;gallery&quot; title=&quot;olc3&quot;&gt;
           &lt;img src=&quot;//images.weserv.nl/?url=tramfishers.com/img/one-lens/olc3.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;olc3&quot; /&gt;
         &lt;/a&gt;
       
@@ -121,7 +121,7 @@
 
         
         
-        &lt;a href=&quot;/img/one-lens/olc4.jpg&quot; title=&quot;olc4&quot;&gt;
+        &lt;a href=&quot;/img/one-lens/olc4.jpg&quot; data-fancybox=&quot;gallery&quot; title=&quot;olc4&quot;&gt;
           &lt;img src=&quot;//images.weserv.nl/?url=tramfishers.com/img/one-lens/olc4.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;olc4&quot; /&gt;
         &lt;/a&gt;
       
@@ -132,7 +132,7 @@
 
         
         
-        &lt;a href=&quot;/img/one-lens/olc5.jpg&quot; title=&quot;olc5&quot;&gt;
+        &lt;a href=&quot;/img/one-lens/olc5.jpg&quot; data-fancybox=&quot;gallery&quot; title=&quot;olc5&quot;&gt;
           &lt;img src=&quot;//images.weserv.nl/?url=tramfishers.com/img/one-lens/olc5.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;olc5&quot; /&gt;
         &lt;/a&gt;
       
@@ -143,7 +143,7 @@
 
         
         
-        &lt;a href=&quot;/img/one-lens/olc6.jpg&quot; title=&quot;olc6&quot;&gt;
+        &lt;a href=&quot;/img/one-lens/olc6.jpg&quot; data-fancybox=&quot;gallery&quot; title=&quot;olc6&quot;&gt;
           &lt;img src=&quot;//images.weserv.nl/?url=tramfishers.com/img/one-lens/olc6.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;olc6&quot; /&gt;
         &lt;/a&gt;
       
@@ -154,7 +154,7 @@
 
         
         
-        &lt;a href=&quot;/img/one-lens/olc7.jpg&quot; title=&quot;olc7&quot;&gt;
+        &lt;a href=&quot;/img/one-lens/olc7.jpg&quot; data-fancybox=&quot;gallery&quot; title=&quot;olc7&quot;&gt;
           &lt;img src=&quot;//images.weserv.nl/?url=tramfishers.com/img/one-lens/olc7.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;olc7&quot; /&gt;
         &lt;/a&gt;
       
@@ -165,7 +165,7 @@
 
         
         
-        &lt;a href=&quot;/img/one-lens/olc8.jpg&quot; title=&quot;olc8&quot;&gt;
+        &lt;a href=&quot;/img/one-lens/olc8.jpg&quot; data-fancybox=&quot;gallery&quot; title=&quot;olc8&quot;&gt;
           &lt;img src=&quot;//images.weserv.nl/?url=tramfishers.com/img/one-lens/olc8.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;olc8&quot; /&gt;
         &lt;/a&gt;
       
