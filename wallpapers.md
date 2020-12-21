@@ -4,6 +4,7 @@ title: Wallpapers
 permalink: /wallpapers/
 snippet: A new page showing thumbnails for all of my free wallpapers that have now been open sourced on github.
 images:
+ -  LuPuBridge.jpg
  -  rail.jpg
  -  refdrill.jpg
  -  bench.jpg
