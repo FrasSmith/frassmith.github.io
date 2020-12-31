@@ -5,7 +5,7 @@ subtitle: A short un-review of Talisker Storm Single Malt Scotch Whisky
 date: 2020-12-31 13:51
 category:
 author: Fraser Smith
-tags: [whisky, review, memories, nostalgia, talisker storm, talisker, review]
+tags: [whisky, review, memories, nostalgia, talisker storm, talisker]
 summary: A short un-review of Talisker Storm Single Malt Whisky from the Isle of Skye on the West coast of Scotland.
 ---
 <img src="/img/talisker1.jpg" alt="Talisker Bottle Banner" />
