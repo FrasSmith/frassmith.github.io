@@ -24,6 +24,6 @@ My first sip takes me to the fishing harbour at Arbroath on Scotland's East coas
 
 Another sip and, as the smooth liquid travels around my mouth, I'm transported to my teenage years in the Scouts sailing Wayfarer dinghies in Loch Goil with the salt spray in my face and the feel of salty rime from the unruly ropes as sixteen-year-old me gave younger scouts their first taste of sailing. Often cold. Often wet. Always fun.
 
-I swallow a third sip and, as the slightly peppery tail recedes, I'm reminded of my early career as a navigation engineer on survey vessels, of the ubiquitous smell of salt and the sea that cakes every ship, of weathering North Sea storms in the warmth of my cabin as the sea swallows my window in a green dim, before releasing it again for its next mouthful. A harsher life.
+I swallow a third sip and, as the slightly peppery tail recedes, I'm reminded of my early career as a navigation engineer on survey vessels, of the ubiquitous smell of salt and the sea that cakes every ship, of weathering North Sea storms in the warmth of my cabin as the sea swallowed my window in a green dim, before releasing it again for its next mouthful. A harsher life.
 
 Perhaps I can't name the subtle flavours of this dram, but I will remember it as it has reminded me.
