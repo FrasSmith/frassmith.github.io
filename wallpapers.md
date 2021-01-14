@@ -4,6 +4,12 @@ title: Wallpapers
 permalink: /wallpapers/
 snippet: A new page showing thumbnails for all of my free wallpapers that have now been open sourced on github.
 images:
+ -  sunrise-window2.jpg
+ -  sunrise-window1.jpg
+ -  1933-1.jpg
+ -  1933-2.jpg
+ -  lupu-sunset.jpg
+ -  sunset-lupu.jpg
  -  LuPuBridge.jpg
  -  rail.jpg
  -  refdrill.jpg
