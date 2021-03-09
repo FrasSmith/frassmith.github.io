@@ -4,6 +4,12 @@ title: Wallpapers
 permalink: /wallpapers/
 snippet: A new page showing thumbnails for all of my free wallpapers that have now been open sourced on github.
 images:
+ -  wall2.jpg
+ -  fence-bw.jpg
+ -  fence.jpg
+ -  panel.jpg
+ -  concrete.jpg
+ -  grass.jpg
  -  sunrise-window2.jpg
  -  sunrise-window1.jpg
  -  1933-1.jpg
