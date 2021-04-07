@@ -20,7 +20,7 @@ Getting back to technology, the majority of professional use cases for Linux are
 
 I've been working in cloud computing since 2013. I wrote software that ran a daily security and configuration audit on over a thousand managed servers. Most of those servers were running CentOS or [Amazon Linux](https://aws.amazon.com/amazon-linux-2/), a significant minority were running Ubuntu. There may even have been a few running Debian, though I can't remember ever coming across one. But one thing is certain, none were running Arch or Arch based distributions. Why is this? Put simply, Arch doesn't support partial upgrades. There's no way to just apply security patches. With Arch it's all or nothing and, the longer you leave it, the higher the probability that something will break.
 
-For a professional, it's the stuff of nighmares.
+For a professional, it's the stuff of nightmares.
 
 I use an Arch distro as my daily driver ([ArcoLinux](https://arcolinux.info)), does that make me un-professional? Perhaps. My laptop is not a mission-critical device. I like to tinker with it, installing things, tweaking things, breaking things. I know that I can completely re-install with a fresh OS and be back up and running in a couple of hours. However, that's not a luxury afforded to the true professional Linux users.
 
