@@ -10,6 +10,8 @@ imagebase: "https://raw.githubusercontent.com/FrasSmith/wallpapers/master/images
 # profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.ico
 
+remote_theme: carlosperate/jekyll-theme-rtd
+
 footer_text: Fraser Smith, TramFishers, :year.
 
 permalink: /:year/:month/:day/:title

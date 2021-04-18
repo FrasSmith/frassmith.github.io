@@ -29,6 +29,7 @@ I opted for [Manjaro ARM edition](https://manjaro.org/download/#raspberry-pi-4) 
 # Enable HiFiberry DAC Standard/Pro
 dtoverlay=hifiberry-dacplus
 ```
+{: .language-bash}
 
 The `dtparam` line is commented out to disable the internal Pi DAC and 3.5mm output because it's not very good. The `dtoverlay` line enables support for hifiberry-dacplus DAC. Mine is a third part clone, but it's compatible with the HiFi Berry so the settings work. This is about the only text editing that you have to do. The rest can be done within the MATE desktop on the Pi. Note, while editing the `boot/config.txt` file, you could also overclock your Pi from 1.5MHz to 2GHz, but seriously, for this application you don't need to and the Pi get's warm enough as it is while rendering audio or video. Plus, with the DAC hat installed, you don't have many cooling options.
 
