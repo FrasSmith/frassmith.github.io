@@ -2,10 +2,10 @@
 layout: default
 permalink: /tags/
 title: Tags
-snippet: Tags, tasgs and more tags. If I have tagged it, then the tags will be here. Not sure how useful, but tags they are.
+snippet: Tags, tags and more tags. If I have tagged it, then the tags will be here. Not sure how useful, but tags they are.
 ---
 
-<ul>
+<ul id="page-list" class="sidebar-list">
     {% for tag in site.tags %}
         <li id="{{ tag[0] }}">
             <b>{{ tag[0] }}</b>
