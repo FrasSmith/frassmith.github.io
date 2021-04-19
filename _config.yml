@@ -10,8 +10,6 @@ imagebase: "https://raw.githubusercontent.com/FrasSmith/wallpapers/master/images
 # profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.ico
 
-remote_theme: carlosperate/jekyll-theme-rtd
-
 footer_text: Fraser Smith, TramFishers, :year.
 
 permalink: /:year/:month/:day/:title
@@ -25,3 +23,50 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+description: > # this means to ignore newlines until "twitter_username:"
+  Tramfishers.com, a site set aside for writing, sharing, grumbling and (maybe) ranting.
+  I'm Fraser Smith, a freelance developer and amateur photographer living in Shanghai.
+  Why TramFishers? Let's just say that it has me very confused. SmarterFish
+  was already taken and I didn't really fancy ShitFarmers (it's an anagram).
+
+# social links
+twitter1_username: FrasSmith
+twitter2_username: Literaverse
+twitter3_username: BardInsults
+# github_username:  FrasSmith
+rss: rss
+# dribbble_username: jekyll
+# facebook_username: FrasSmith
+flickr_username: fras.shanghai
+# instagram_username: jekyll
+# linkedin_username: FrasSmith
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+
+# Mastodon instances
+# mastodon:
+# - username: jekyll
+#   instance: example.com
+# - username: jekyll2
+#   instance: example.com
+
+
+show_excerpts: true # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.html
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock

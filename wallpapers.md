@@ -197,7 +197,7 @@ The thumbnails below link directly to higher resolution versions of the images. 
     {% for img in page.images %}
     <a href="{{site.imagebase}}{{ img }}" data-fancybox="gallery" >
 <!--        <img class="galpic" src="{{site.imagebase}}{{ img }}" /> -->
-        <img src="//images.weserv.nl/?url={{site.imagebase}}{{ img }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" />
+        <img src="//images.weserv.nl/?url={{site.imagebase}}{{ img }}&w=200&h=200&output=jpg&q=50&t=square" alt="{{ filename }}" />
     </a>
     {% endfor %}
 </div>
