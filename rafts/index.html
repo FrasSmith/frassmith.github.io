@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <title>TramFishers</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="blog, Fraser Smith, TramFishers, jekyll">
+    <meta name="author" content="Fraser Smith">
+    
+    
+    
+
+    <meta name="description" content="Words and Images and Stuff">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Cinzel:wght@500&family=Special+Elite&display=swap" rel="stylesheet">
+<!--    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300&display=swap" rel="stylesheet"> -->
+<!--    <link href="https://fonts.googleapis.com/css?family=Alegreya&display=swap" rel="stylesheet"> -->
+<!--    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans&display=swap" rel="stylesheet"> -->
+<!--    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC&display=swap" rel="stylesheet"> -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" >
+    <link rel="stylesheet" href="/assets/style.css">
+    <link rel="icon" type="image/ico" href="https://www.tramfishers.com/assets/favicon.ico">
+    <link rel="shortcut-icon" type="image/ico" href="https://www.tramfishers.com/assets/favicon.ico">
+
+    <!-- For Facebook -->
+    <meta property="og:title" content="TramFishers" />
+    <meta property="og:image" content="https://www.tramfishers.com/assets/favicon.ico" />
+    <meta property="og:description" content="Words and Images and Stuff" />
+
+    <!-- For Twitter -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="TramFishers" />
+    <meta name="twitter:description" content="Words and Images and Stuff" />
+    <meta name="twitter:image" content="https://www.tramfishers.com/assets/favicon.ico" />
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>TramFishers | Tramfishers.com, a site set aside for writing, sharing, grumbling and (maybe) ranting. I’m Fraser Smith, a freelance developer and amateur photographer living in Shanghai. Why TramFishers? Let’s just say that it has me very confused. SmarterFish was already taken and I didn’t really fancy ShitFarmers (it’s an anagram).</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="TramFishers" />
+<meta name="author" content="Fraser Smith" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Tramfishers.com, a site set aside for writing, sharing, grumbling and (maybe) ranting. I’m Fraser Smith, a freelance developer and amateur photographer living in Shanghai. Why TramFishers? Let’s just say that it has me very confused. SmarterFish was already taken and I didn’t really fancy ShitFarmers (it’s an anagram)." />
+<meta property="og:description" content="Tramfishers.com, a site set aside for writing, sharing, grumbling and (maybe) ranting. I’m Fraser Smith, a freelance developer and amateur photographer living in Shanghai. Why TramFishers? Let’s just say that it has me very confused. SmarterFish was already taken and I didn’t really fancy ShitFarmers (it’s an anagram)." />
+<link rel="canonical" href="https://www.tramfishers.com/" />
+<meta property="og:url" content="https://www.tramfishers.com/" />
+<meta property="og:site_name" content="TramFishers" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="TramFishers" />
+<script type="application/ld+json">
+{"@type":"WebSite","description":"Tramfishers.com, a site set aside for writing, sharing, grumbling and (maybe) ranting. I’m Fraser Smith, a freelance developer and amateur photographer living in Shanghai. Why TramFishers? Let’s just say that it has me very confused. SmarterFish was already taken and I didn’t really fancy ShitFarmers (it’s an anagram).","url":"https://www.tramfishers.com/","headline":"TramFishers","author":{"@type":"Person","name":"Fraser Smith"},"name":"TramFishers","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+</head>
+<body><div class="site-sidebar">
+
+    <a class="sidebar-title" href="/">TramFishers</a>
+
+    
+    
+    <!--  -->
+    <nav class="site-nav">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+      <label for="nav-trigger">
+        <span class="menu-icon">
+          <svg viewBox="0 0 18 15" width="18px" height="15px">
+            <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+            <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+            <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+          </svg>
+        </span>
+      </label>
+
+      <!--
+      <form class="trigger" method="get" action="/search">
+        <input type="text" name="q" placeholder="Search blog" class="search-box">
+      </form>
+    -->
+      <ul id="page-list" class="trigger sidebar-list">
+        <li class=""><a href="/">Home</a></li>
+        
+          
+          
+        
+          
+          
+            <li class=""><a href="/about">About</a></li>
+          
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+          
+          
+            <li class=""><a href="/tags/">Tags</a></li>
+          
+        
+          
+          
+            <li class=""><a href="/wallpapers/">Wallpapers</a></li>
+          
+        
+          
+          
+        
+      </ul>
+    <!--  -->
+
+      
+        <ul id="post-list" class="trigger sidebar-list">
+            <li class="active"><a href="/">Posts</a></li>
+          
+            <li class="">
+              
+              <!-- <span>Apr 7, 2021</span><br>-->
+              <a href="/2021/04/07/arch-is-for-pros" title="&quot;Arch is for Pros&quot; - Apr 7, 2021">&quot;Arch is for Pros&quot;</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Dec 31, 2020</span><br>-->
+              <a href="/2020/12/31/taste-of-the-sea" title="A Taste of the Sea - Dec 31, 2020">A Taste of the Sea</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Nov 12, 2020</span><br>-->
+              <a href="/2020/11/12/one-lens-challenge-images" title="ONE LENS Challenge Gallery - Nov 12, 2020">ONE LENS Challenge Gallery</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Nov 3, 2020</span><br>-->
+              <a href="/2020/11/03/one-lens-challenge" title="The ONE LENS Challenge - Nov 3, 2020">The ONE LENS Challenge</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Aug 13, 2020</span><br>-->
+              <a href="/2020/08/13/photographing-lightning" title="Camera Life 6 - Aug 13, 2020">Camera Life 6</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Apr 22, 2020</span><br>-->
+              <a href="/2020/04/22/taking-a-break" title="Time for a Break - Apr 22, 2020">Time for a Break</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Apr 9, 2020</span><br>-->
+              <a href="/2020/04/09/springtime" title="Springtime Haiku - Apr 9, 2020">Springtime Haiku</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Apr 2, 2020</span><br>-->
+              <a href="/2020/04/02/camera-life-5" title="Camera Life 5 - Apr 2, 2020">Camera Life 5</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Mar 25, 2020</span><br>-->
+              <a href="/2020/03/25/life-under-lockdown-6" title="Life Under Lockdown 6 - Mar 25, 2020">Life Under Lockdown 6</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Mar 18, 2020</span><br>-->
+              <a href="/2020/03/18/camera-life-4" title="Camera Life 4 - Mar 18, 2020">Camera Life 4</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Mar 11, 2020</span><br>-->
+              <a href="/2020/03/11/a-life-in-cameras-3" title="Camera Life 3 - Mar 11, 2020">Camera Life 3</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Mar 4, 2020</span><br>-->
+              <a href="/2020/03/04/five-things-to-do-under-lockdown" title="Five Things to do Under Lockdown - Mar 4, 2020">Five Things to do Under Lockdown</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Feb 26, 2020</span><br>-->
+              <a href="/2020/02/26/life-under-lockdown-4" title="Life Under Lockdown 4 - Feb 26, 2020">Life Under Lockdown 4</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Feb 19, 2020</span><br>-->
+              <a href="/2020/02/19/life-under-lockdown-3" title="Life Under Lockdown 3 - Feb 19, 2020">Life Under Lockdown 3</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Feb 12, 2020</span><br>-->
+              <a href="/2020/02/12/life-under-lockdown-2" title="Life Under Lockdown 2 - Feb 12, 2020">Life Under Lockdown 2</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Feb 6, 2020</span><br>-->
+              <a href="/2020/02/06/life-under-lockdown" title="Life Under Lockdown - Feb 6, 2020">Life Under Lockdown</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Jan 31, 2020</span><br>-->
+              <a href="/2020/01/31/a-life-in-cameras-2" title="Camera Life 2 - Jan 31, 2020">Camera Life 2</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Dec 22, 2019</span><br>-->
+              <a href="/2019/12/22/mayflower-400" title="Mayflower 400 - Mayflower II - Dec 22, 2019">Mayflower 400 - Mayflower II</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Oct 23, 2019</span><br>-->
+              <a href="/2019/10/23/chrome-dark-mode" title="Chrome Dark Mode - Oct 23, 2019">Chrome Dark Mode</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Oct 17, 2019</span><br>-->
+              <a href="/2019/10/17/a-life-in-cameras-1" title="Camera Life 1 - Oct 17, 2019">Camera Life 1</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Oct 15, 2019</span><br>-->
+              <a href="/2019/10/15/posting-to-instagram-from-desktop" title="Posting to Instagram from the Desktop - Oct 15, 2019">Posting to Instagram from the Desktop</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Oct 14, 2019</span><br>-->
+              <a href="/2019/10/14/tidal-playlists" title="TIDAL Automatic Playlists - Oct 14, 2019">TIDAL Automatic Playlists</a>
+            </li>
+          
+            <li class="">
+              
+              <!-- <span>Oct 1, 2019</span><br>-->
+              <a href="/2019/10/01/fidgeting-for-focus" title="Fidgeting for Focus - Oct 1, 2019">Fidgeting for Focus</a>
+            </li>
+          
+        </ul>
+      
+    </nav>
+
+</div>
+<div class="main-wrapper"><!--
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="/">TramFishers</a>
+  </div>
+</header>
+--><main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="home">
+
+
+  
+    <h2 class="post-list-heading"></h2>
+    <ul class="post-list"><li><span class="post-meta">Apr 7, 2021</span>
+          <h3>
+            <a class="post-link" href="/2021/04/07/arch-is-for-pros">
+              &quot;Arch is for Pros&quot;
+            </a>
+          </h3><p><img src="/img/arch.jpg" alt="Arch Linux Logo" />
+<em>Recently, I’ve taken to scanning a selection of subreddits on reddit.com covering my interests in tech, photography etc. Today, on a Linux subreddit I saw the comment that titles this post, “Arch is for Pros”. The Arch, in this case is <a href="https://archlinux.org/">Arch Linux</a>, a notoriously tricky to setup Linux distro for those who like to live on the bleeding edge of technology (and Linux YouTubers). However, it got me thinking about the mis-appropriation and mis-use of the term “Pro”. Here are my thoughts on the matter.</em></p>
+</li><li><span class="post-meta">Dec 31, 2020</span>
+          <h3>
+            <a class="post-link" href="/2020/12/31/taste-of-the-sea">
+              A Taste of the Sea
+            </a>
+          </h3><p><img src="/img/talisker1.jpg" alt="Talisker Bottle Banner" />
+<em>“An intense Talisker, with a profoundly maritime character, like a warm welcome from a wild Hebridean sea”. So says the marketing spiel on the label on each bottle of Talisker Storm Single Malt Scotch Whisky. Colourful language, but do the contents deliver on the rather breathy description? Read on to find out.</em></p>
+</li><li><span class="post-meta">Nov 12, 2020</span>
+          <h3>
+            <a class="post-link" href="/2020/11/12/one-lens-challenge-images">
+              ONE LENS Challenge Gallery
+            </a>
+          </h3><p><img src="/img/ybax.jpg" alt="ONE LENS Challenge" />
+<em>A gallery of images from my One Lens Challenge in November 2020. All images taken with Canon EOS-M5 with the 7Artisans 35mm f1.2 lens.</em></p>
+</li><li><span class="post-meta">Nov 3, 2020</span>
+          <h3>
+            <a class="post-link" href="/2020/11/03/one-lens-challenge">
+              The ONE LENS Challenge
+            </a>
+          </h3><p><img src="/img/lens.jpg" alt="EOS-M5 7Artisans 35mm f1.2" /></p>
+
+<p><em>A few days ago, I watched <a href="https://www.youtube.com/watch?v=bKMaEAxPskU">this post on YouTube</a>. It seemed like a fun idea so I decided to give it a try. (If you didn’t have time to watch the video, the assignment is to use a single prime lens for all of your personal photography for the month of November.)</em></p>
+</li><li><span class="post-meta">Aug 13, 2020</span>
+          <h3>
+            <a class="post-link" href="/2020/08/13/photographing-lightning">
+              Camera Life 6
+            </a>
+          </h3><p><img src="/img/lightning-banner.jpg" alt="Lightning Flashes Across The Sky" /></p>
+
+<p><em>If you have been following my sporadic posts about <a href="https://www.tramfishers.com/2019/10/17/a-life-in-cameras-1">Camera Life</a>, you’ll be aware that I’ve been a camera owner (and therefore a hobbyist photographer) for over fifty years. In that time, I have only managed to photograph lightning successfully twice. Each time I used a different technique and each time I succeeded… eventually.</em></p>
+</li><li><span class="post-meta">Apr 22, 2020</span>
+          <h3>
+            <a class="post-link" href="/2020/04/22/taking-a-break">
+              Time for a Break
+            </a>
+          </h3><p><img src="/img/people.jpg" alt="Random people sitting on a bench" /></p>
+
+<p><em>“I’d never join a club that would allow a person like me to become a member.”</em></p>
+
+<p><em>― Groucho Marx</em></p>
+</li><li><span class="post-meta">Apr 9, 2020</span>
+          <h3>
+            <a class="post-link" href="/2020/04/09/springtime">
+              Springtime Haiku
+            </a>
+          </h3><p><img src="/img/tree-pollen.jpg" alt="Tree pollen" /></p>
+</li><li><span class="post-meta">Apr 2, 2020</span>
+          <h3>
+            <a class="post-link" href="/2020/04/02/camera-life-5">
+              Camera Life 5
+            </a>
+          </h3><p><img src="/img/terragen2.jpg" alt="Landscape with Terragen" /></p>
+
+<p><em>It’s hard to believe that a hobby program from a student at York University would be the catalyst to get me back into photography, but that’s exactly what happened in the late nineties. I cannot deny that, photographically, I’d lost my way at that time. In career terms, things were going well, I had left the offshore life in 1994 after a year posted to China and started working in the newspaper industry as an advertising systems engineer. On the personal front, however, it was pretty awful. And that is all that I’m going to say on that subject. It’s water under the bridge.</em></p>
+<div class="post-image">
+              <a href="/2020/04/02/camera-life-5">
+                <img src="https://www.tramfishers.com/%7B%22feature%22=%3E%22/img/terragen.jpg%22%7D" alt="Camera Life 5">
+              </a>
+            </div></li><li><span class="post-meta">Mar 25, 2020</span>
+          <h3>
+            <a class="post-link" href="/2020/03/25/life-under-lockdown-6">
+              Life Under Lockdown 6
+            </a>
+          </h3><p><img src="/img/empty-road2.jpg" alt="An empty road in Shanghai" /></p>
+
+<p>With most of the world seemingly under lockdown now, I didn’t think there was much scope for another “Life Under Lockdown” post. I was even toying with the idea of a new series, “life After Lockdown” based on the improvements to our situation here in Shanghai. However, events of the last weekend served as a reminder that, even if we’re not totally under lockdown, China is, and it’s getting stricter.</p>
+</li><li><span class="post-meta">Mar 18, 2020</span>
+          <h3>
+            <a class="post-link" href="/2020/03/18/camera-life-4">
+              Camera Life 4
+            </a>
+          </h3><p><img src="/img/cameras/oly-bw.jpg" alt="Olympus XA Camera plus film" /></p>
+
+<p><em>Nothing could have prepared me for the intense heat and humidity of Houston, Texas, in the late summer of 1984, when I arrived there for my first overseas posting. Even the TV weather forecasts couldn’t cope when screen weather tickers topped out at 99% humidity for the simple reason that they couldn’t handle the three digits required to display 100%.</em></p>
+<div class="post-image">
+              <a href="/2020/03/18/camera-life-4">
+                <img src="https://www.tramfishers.com/%7B%22feature%22=%3E%22/img/cameras/oly.jpg%22%7D" alt="Camera Life 4">
+              </a>
+            </div></li><li><span class="post-meta">Mar 11, 2020</span>
+          <h3>
+            <a class="post-link" href="/2020/03/11/a-life-in-cameras-3">
+              Camera Life 3
+            </a>
+          </h3><p><img src="/img/cameras/xgm-banner.jpg" alt="Minolta Camera" /></p>
+
+<p><em>I often think of the XG/M as my first SLR camera. It wasn’t. I’d had a Praktica SLR for some time already, but I had no lenses other than the kit lens and it used a screw mount which was notoriously tricky and slow to use. So, the Minolta with its bayonet mount was the first SLR that I had additional lenses for, the first one that I took seriously. However, this post isn’t about that camera (well, maybe it is a little).</em></p>
+<div class="post-image">
+              <a href="/2020/03/11/a-life-in-cameras-3">
+                <img src="https://www.tramfishers.com/%7B%22feature%22=%3E%22/img/cameras/xgm.jpg%22%7D" alt="Camera Life 3">
+              </a>
+            </div></li><li><span class="post-meta">Mar 4, 2020</span>
+          <h3>
+            <a class="post-link" href="/2020/03/04/five-things-to-do-under-lockdown">
+              Five Things to do Under Lockdown
+            </a>
+          </h3><p><img src="/img/garlic.jpg" alt="Time to learn to cook some garlic" /></p>
+
+<p>So here we are at post number 5 about life under lockdown in Shanghai. As the situation shows signs of improvement in China but deteriorates in other countries, I bring you some suggestions, in no particular order of importance, for those about to experience their own life under lockdown.</p>
+</li><li><span class="post-meta">Feb 26, 2020</span>
+          <h3>
+            <a class="post-link" href="/2020/02/26/life-under-lockdown-4">
+              Life Under Lockdown 4
+            </a>
+          </h3><p><img src="/img/train.jpg" alt="A Childrens Train Ride under wraps" /></p>
+
+<p>Perhaps the final update about life under lockdown in Shanghai. While it will probably be a few weeks before normality returns (if it ever does return), there are signs of improvement in Shanghai.</p>
+</li><li><span class="post-meta">Feb 19, 2020</span>
+          <h3>
+            <a class="post-link" href="/2020/02/19/life-under-lockdown-3">
+              Life Under Lockdown 3
+            </a>
+          </h3><p><img src="/img/empty-road.jpg" alt="An Empty road in Shanghai" /></p>
+
+<p>When I wrote the original post in this series, I assumed it was going to be a single post. After the second, I thought that would be it. However, the situation is always fluid. Things change. So here we are with post number 3.</p>
+</li><li><span class="post-meta">Feb 12, 2020</span>
+          <h3>
+            <a class="post-link" href="/2020/02/12/life-under-lockdown-2">
+              Life Under Lockdown 2
+            </a>
+          </h3><p><img src="/img/skyway.jpg" alt="Looking up at Skyway Hotel" style="width: 250px;" /></p>
+
+<p>When I wrote the original <a href="https://tramfishers.com/2020/02/06/life-under-lockdown/">Life Under Lockdown</a> post a week ago, I didn’t plan on making it a series, but here we are, one week later and I’m writing an update.</p>
+
+<p>It’s been a week of reflection, a week of getting enough sleep, a week of boredom and, sadly, a week marred by tragedy. It’s also been the week in which I completed my 57th orbit of the sun so yay for me.</p>
+</li><li><span class="post-meta">Feb 6, 2020</span>
+          <h3>
+            <a class="post-link" href="/2020/02/06/life-under-lockdown">
+              Life Under Lockdown
+            </a>
+          </h3><p><img src="/img/masked.jpg" alt="Author in Mask" style="width: 250px;" /></p>
+
+<p>Living in Shanghai during the current coronavirus outbreak, I’m often asked by overseas friends, how we are doing. The short form answer to that is, “We’re fine”. But here’s a longer update on the situation to date from the perspective of an expat in Shanghai.</p>
+</li><li><span class="post-meta">Jan 31, 2020</span>
+          <h3>
+            <a class="post-link" href="/2020/01/31/a-life-in-cameras-2">
+              Camera Life 2
+            </a>
+          </h3><p><img src="/img/cameras/fed.jpg" alt="FED 4 Camera" style="width: 250px;" /></p>
+
+<p><em>Second of a series of posts dedicated to the many cameras that I have owned over the years. While some posts may focus on my thoughts about the camera itself, for others, I hope to dig up some remote memories and anecdotes from the time when I owned it.</em></p>
+<div class="post-image">
+              <a href="/2020/01/31/a-life-in-cameras-2">
+                <img src="https://www.tramfishers.com/%7B%22feature%22=%3E%22/img/cameras/fed.jpg%22%7D" alt="Camera Life 2">
+              </a>
+            </div></li><li><span class="post-meta">Dec 22, 2019</span>
+          <h3>
+            <a class="post-link" href="/2019/12/22/mayflower-400">
+              Mayflower 400 - Mayflower II
+            </a>
+          </h3><p>This morning I learned, through a retweet from <a href="https://twitter.com/nicklewis">@NickLewis</a> of a tweet by <a href="https://twitter.com/mayflower400uk">@Mayflower400Uk</a>, that 2020 will be the 400th anniversary of the voyage of the Mayflower. It reminded me of a family link to the Mayflower and a personal anecdote from about 20 years ago related to that link.</p>
+
+<p><img src="/img/mayflowerII.jpg" alt="Mayflower Replica" style="width: 40%;" /></p>
+
+</li><li><span class="post-meta">Oct 23, 2019</span>
+          <h3>
+            <a class="post-link" href="/2019/10/23/chrome-dark-mode">
+              Chrome Dark Mode
+            </a>
+          </h3><p>Google Chrome version 78 has just launched. I was having a look at the “chrome://flags” page and discovered that it’s now possible to enable dark mode for all sites in the browser.</p>
+
+<p>As mentioned, enter “chrome://flags” in the url bar and then, when the page loads, search for “dark”. You should see the two settings shown in the image below.</p>
+
+<p>&lt;img src=”/img/ChromeDarkMode.png” alt=”Chrome Dark Mode “style=”width: 80%;” /&gt;</p>
+
+<p>Select one of the choices for <strong>“Force Dark Mode for Web Content”</strong> from the drop down menu on the right and click the button at the bottom right of the screen to relaunch your browser. I’m not sure what all the options do, but I found that <strong>“Enabled with selective inversion of everything”</strong> works quite well.</p>
+
+<p>If you want to switch it off again, just repeat the above and set the dropdown to <strong>“Disabled”</strong>.</p>
+
+<p>Enjoy.</p>
+
+<div class="post-image">
+              <a href="/2019/10/23/chrome-dark-mode">
+                <img src="https://www.tramfishers.com/%7B%22feature%22=%3E%22/img/ChromeDarkMode.png%22%7D" alt="Chrome Dark Mode">
+              </a>
+            </div></li><li><span class="post-meta">Oct 17, 2019</span>
+          <h3>
+            <a class="post-link" href="/2019/10/17/a-life-in-cameras-1">
+              Camera Life 1
+            </a>
+          </h3><p><img src="/img/cameras/instamatic.jpg" alt="Kodak Instamatic" style="width: 250px;" /></p>
+
+<p><em>This is the first of a series of posts dedicated to the many cameras that I have owned over the years. While some of the posts may focus on my thoughts the camera itself, for others, I hope to dig up some remote memories and anecdotes from the time when I owned it.</em></p>
+<div class="post-image">
+              <a href="/2019/10/17/a-life-in-cameras-1">
+                <img src="https://www.tramfishers.com/%7B%22feature%22=%3E%22/img/cameras/instamatic.jpg%22%7D" alt="Camera Life 1">
+              </a>
+            </div></li><li><span class="post-meta">Oct 15, 2019</span>
+          <h3>
+            <a class="post-link" href="/2019/10/15/posting-to-instagram-from-desktop">
+              Posting to Instagram from the Desktop
+            </a>
+          </h3><p>One of the biggest frustrations for photographers when using Instagram is its mobile only ethos. For any photographer, uploading images to Instagram can be a chore as a typical workflow would be to transfer files from camera to computer, process files, export to jpeg and then, find some way to transfer the jpeg files onto a phone to upload to Instagram. It’s almost as if Instagram doesn’t really want serious photographers on its platform.</p>
+</li><li><span class="post-meta">Oct 14, 2019</span>
+          <h3>
+            <a class="post-link" href="/2019/10/14/tidal-playlists">
+              TIDAL Automatic Playlists
+            </a>
+          </h3><p>I was re-acquainting myself with The Stranglers’ <em>Aural Sculpture</em> album this afternoon on <a href="https://tidal.com/browse/album/673817">TIDAL</a>. When TIDAL finishes playing an album, it automatically generates a playlist of similar artists and plays that next.</p>
+</li><li><span class="post-meta">Oct 1, 2019</span>
+          <h3>
+            <a class="post-link" href="/2019/10/01/fidgeting-for-focus">
+              Fidgeting for Focus
+            </a>
+          </h3><p><em>The following is an article that was first published in 2010 on edexpat.com. Edexpat is long gone, but thanks to the internet archive, the text of this article was recoverable. What follows has been edited and slightly updated</em></p>
+</li></ul>
+
+    <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p></div>
+
+        </div>
+      </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">TramFishers</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Fraser Smith</li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://www.twitter.com/FrasSmith"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">FrasSmith</span></a></li><li><a href="https://www.twitter.com/Literaverse"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">Literaverse</span></a></li><li><a href="https://www.twitter.com/BardInsults"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">BardInsults</span></a></li><li><a href="https://www.flickr.com/photos/fras.shanghai"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#flickr"></use></svg> <span class="username">fras.shanghai</span></a></li><li><a href="/feed.xml"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#rss"></use></svg> <span>rss</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Tramfishers.com, a site set aside for writing, sharing, grumbling and (maybe) ranting. I&#39;m Fraser Smith, a freelance developer and amateur photographer living in Shanghai. Why TramFishers? Let&#39;s just say that it has me very confused. SmarterFish was already taken and I didn&#39;t really fancy ShitFarmers (it&#39;s an anagram).
+</p>
+      </div>
+    </div>
+
+  </div>
+</footer>
+</div>
+
+    <script>
+      (function() {
+
+        var postList = document.getElementById('post-list');
+	      var activePost = postList.getElementsByClassName('active')[0];
+
+        var post = document.getElementsByClassName('post-content')[0];
+
+        var headings = [];
+
+        var tag_names = {
+            h1:1,
+            h2:1,
+            h3:1,
+            h4:1,
+            h5:1,
+            h6:1
+        };
+
+        function walk(root) {
+            if (root.nodeType === 1 && root.nodeName !== 'script') {
+                if (tag_names.hasOwnProperty(root.nodeName.toLowerCase())) {
+                    headings.push(root);
+                } else {
+                    for (var i = 0; i < root.childNodes.length; i++) {
+                        walk(root.childNodes[i]);
+                    }
+                }
+            }
+        }
+
+        walk(post);
+
+        if (headings.length > 0) {
+          var ul = document.createElement("ul");
+          ul.classList.add("sidebar-headings")
+          activePost.appendChild(ul);
+
+          for (var i=0, max=headings.length; i < max; i++) {
+            var li = document.createElement("li");
+            li.classList.add("sidebar-" + headings[i].tagName.toLowerCase());
+            var a = document.createElement("a");
+            var aText = document.createTextNode(headings[i].innerText);
+            a.appendChild(aText);
+            a.href = "#" + headings[i].id;
+            li.appendChild(a);
+            ul.appendChild(li);
+          }
+        }
+
+      })();
+    </script>
+
+  </body>
+
+</html>

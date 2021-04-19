@@ -824,3 +824,49 @@ $on-laptop:        1000px !default;
     .vi    { color: #008080 } // Name.Variable.Instance
     .il    { color: #099 } // Literal.Number.Integer.Long
   }
+
+  .image-gallery {
+    overflow: auto;
+    margin-left: -1% !important;
+  }
+  .image-gallery a {
+    float: left;
+    display: block;
+    margin: 0 0 1% 1%;
+    width: 19%;
+    text-align: center;
+    text-decoration: none !important;
+  }
+  .image-gallery a span {
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    padding: 3px 0;
+  }
+  .image-gallery a img {
+    width: 100%;
+    display: block;
+  }
+
+  .tooltip {
+    position: absolute;
+    background: #323232;
+    border-radius: 4px;
+    padding: 6px 12px;
+    font-family: arial;
+    font-size: 12px;
+    text-shadow: 0px 1px 1px #000;
+    color: #99ccff;
+  }
+  .tooltip:before {
+    content: " ";
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #323232;
+    position: absolute;
+    bottom: -5px;
+    left: 5px;
+  }
