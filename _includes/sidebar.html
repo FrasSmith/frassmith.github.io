@@ -39,11 +39,12 @@
             <li class="{% if page.title == post.title %}active{% endif %}">
               {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
               <!-- <span>{{ post.date | date: date_format }}</span><br>-->
-              <a href="{{ post.url | relative_url }}" title="{{ post.title | escape }} - {{ post.date | date: date_format }}">{{ post.title | escape }}</a>
+              <a href="{{ post.url | relative_url }}" title="{{ post.title | escape }} - {{post.summary | escape}} - {{ post.date | date: date_format }}">{{ post.title | escape }}</a>
             </li>
           {% endfor %}
         </ul>
       {% endif %}
+      <img src="/assets/smarterfish-logo.png" alt="TramFishers Icon" class="center" />
     </nav>
 
 </div>
