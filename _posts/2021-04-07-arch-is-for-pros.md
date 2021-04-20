@@ -6,7 +6,7 @@ date: 2021-04-07 08:01
 category:
 author: Fraser Smith
 tags: [arch, linux, professional, reddit, fan boys, centos, amazon linux, aws, cloud, ArcoLinux]
-summary: I recently say the comment "Arch is for Pros" on a conversation on one of the Linux sub-reddits and thought it couldn't be further from the truth. Here's why.
+summary: I recently saw the comment "Arch is for Pros" on a conversation on one of the Linux sub-reddits and thought it couldn't be further from the truth. Here's why.
 ---
 <img src="/img/arch.jpg" alt="Arch Linux Logo" />
 _Recently, I've taken to scanning a selection of subreddits on reddit.com covering my interests in tech, photography etc. Today, on a Linux subreddit I saw the comment that titles this post, "Arch is for Pros". The Arch, in this case is [Arch Linux](https://archlinux.org/), a notoriously tricky to setup Linux distro for those who like to live on the bleeding edge of technology (and Linux YouTubers). However, it got me thinking about the mis-appropriation and mis-use of the term "Pro". Here are my thoughts on the matter._
