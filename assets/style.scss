@@ -443,6 +443,8 @@ $on-laptop:        1000px !default;
 
   .post-link {
     display: block;
+    font-family: "Roboto Slab", Arial, sans-serif;
+    font-weight: 600;
     @include relative-font-size(1.5);
   }
 

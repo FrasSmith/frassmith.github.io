@@ -4,8 +4,18 @@
 <!-- blog posts -->
 
     <url>
+        <loc>https://www.tramfishers.com/2021/04/20/full-featured-mediahub-pi4</loc>
+        <lastmod>2021-04-20 07:25:00 +0800</lastmod>
+    </url>
+
+    <url>
         <loc>https://www.tramfishers.com/2021/04/07/arch-is-for-pros</loc>
         <lastmod>2021-04-07 08:01:00 +0800</lastmod>
+    </url>
+
+    <url>
+        <loc>https://www.tramfishers.com/2021/03/23/xiaomi-watch-color</loc>
+        <lastmod>2021-03-23 13:06:00 +0800</lastmod>
     </url>
 
     <url>
@@ -21,6 +31,11 @@
     <url>
         <loc>https://www.tramfishers.com/2020/11/03/one-lens-challenge</loc>
         <lastmod>2020-11-03 19:06:00 +0800</lastmod>
+    </url>
+
+    <url>
+        <loc>https://www.tramfishers.com/2020/11/02/simple-common-sense</loc>
+        <lastmod>2020-11-02 11:43:00 +0800</lastmod>
     </url>
 
     <url>
@@ -116,6 +131,11 @@
     <url>
         <loc>https://www.tramfishers.com/2019/10/01/fidgeting-for-focus</loc>
         <lastmod>2019-10-01 00:00:00 +0800</lastmod>
+    </url>
+
+    <url>
+        <loc>https://www.tramfishers.com/2018/10/20/write-posts</loc>
+        <lastmod>2018-10-20 00:00:00 +0800</lastmod>
     </url>
 
 

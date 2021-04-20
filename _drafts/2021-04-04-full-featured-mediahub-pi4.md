@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creating a Raspberry Pi Media Hub
-date: 2021-04-04 09:25
+date: 2021-04-20 07:25
 category:
 author: Fraser Smith
 tags: [Raspberry Pi, Plex, Plex Media Server, Plex Media Player, Manjaro, Arm, Arch Linux, Tidal]
