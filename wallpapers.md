@@ -4,6 +4,13 @@ title: Wallpapers
 permalink: /wallpapers/
 snippet: A new page showing thumbnails for all of my free wallpapers that have now been open sourced on github.
 images:
+ -  meadow.jpg
+ -  droplet.jpg
+ -  pads.jpg
+ -  meadow2.jpg
+ -  meadow3.jpg
+ -  lotus.jpg
+ -  abstract-drop.jpg
  -  wall2.jpg
  -  fence-bw.jpg
  -  fence.jpg
