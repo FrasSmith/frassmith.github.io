@@ -25,10 +25,8 @@ plugins:
   - jekyll-seo-tag
 
 description: > # this means to ignore newlines until "twitter_username:"
-  Tramfishers.com, a site set aside for writing, sharing, grumbling and (maybe) ranting.
+  Glenelg.io, a site set aside for writing, sharing, grumbling and (maybe) ranting.
   I'm Fraser Smith, a freelance developer and amateur photographer living in Shanghai.
-  Why TramFishers? Let's just say that it has me very confused. SmarterFish
-  was already taken and I didn't really fancy ShitFarmers (it's an anagram).
 
 # social links
 twitter1_username: FrasSmith
@@ -46,9 +44,9 @@ flickr_username: fras.shanghai
 # googleplus_username: +jekyll
 
 # Mastodon instances
-# mastodon:
-# - username: jekyll
-#   instance: example.com
+mastodon:
+ - username: frassmith
+   instance: octodon.social
 # - username: jekyll2
 #   instance: example.com
 
