@@ -1,0 +1,13 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "_posts",
+      "path": "[[workspace]]/_posts"
+    },
+    {
+      "title": "_drafts",
+      "path": "[[workspace]]/_drafts"
+    }
+  ]
+}
