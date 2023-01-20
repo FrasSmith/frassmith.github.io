@@ -9,5 +9,7 @@
       "title": "_drafts",
       "path": "[[workspace]]/_drafts"
     }
-  ]
+  ],
+  "frontMatter.content.publicFolder": "",
+  "frontMatter.framework.id": "other"
 }
