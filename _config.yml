@@ -46,7 +46,7 @@ flickr_username: fras.shanghai
 # Mastodon instances
 mastodon:
  - username: frassmith
-   instance: octodon.social
+   instance: glenelg.social
 # - username: jekyll2
 #   instance: example.com
 
