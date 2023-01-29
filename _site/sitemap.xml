@@ -4,33 +4,13 @@
 <!-- blog posts -->
 
     <url>
-        <loc>http://localhost:4000/2022/12/12/switching-from-windows-to-linux</loc>
-        <lastmod>2022-12-12 00:00:00 +0800</lastmod>
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2022/10/21/buying-a-pico-4-from-china</loc>
-        <lastmod>2022-10-21 19:15:00 +0800</lastmod>
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2021/05/01/back-to-glenelg</loc>
-        <lastmod>2021-05-01 14:20:00 +0800</lastmod>
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2021/04/20/full-featured-mediahub-pi4</loc>
-        <lastmod>2021-04-20 07:25:00 +0800</lastmod>
+        <loc>http://localhost:4000/2023/01/29/using-chatgpt-for-blogging</loc>
+        <lastmod>2023-01-29 12:56:00 +0800</lastmod>
     </url>
 
     <url>
         <loc>http://localhost:4000/2021/04/07/arch-is-for-pros</loc>
         <lastmod>2021-04-07 08:01:00 +0800</lastmod>
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2021/03/23/xiaomi-watch-color</loc>
-        <lastmod>2021-03-23 13:06:00 +0800</lastmod>
     </url>
 
     <url>
@@ -46,11 +26,6 @@
     <url>
         <loc>http://localhost:4000/2020/11/03/one-lens-challenge</loc>
         <lastmod>2020-11-03 19:06:00 +0800</lastmod>
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2020/11/02/simple-common-sense</loc>
-        <lastmod>2020-11-02 11:43:00 +0800</lastmod>
     </url>
 
     <url>
