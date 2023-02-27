@@ -4,11 +4,6 @@
 <!-- blog posts -->
 
     <url>
-        <loc>http://localhost:4000/2023/01/29/using-chatgpt-for-blogging</loc>
-        <lastmod>2023-01-29 12:56:00 +0800</lastmod>
-    </url>
-
-    <url>
         <loc>http://localhost:4000/2021/04/07/arch-is-for-pros</loc>
         <lastmod>2021-04-07 08:01:00 +0800</lastmod>
     </url>
