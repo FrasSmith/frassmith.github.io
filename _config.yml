@@ -30,8 +30,6 @@ description: > # this means to ignore newlines until "twitter_username:"
 
 # social links
 twitter1_username: FrasSmith
-twitter2_username: Literaverse
-twitter3_username: BardInsults
 # github_username:  FrasSmith
 rss: rss
 # dribbble_username: jekyll
@@ -47,8 +45,12 @@ flickr_username: fras.shanghai
 mastodon:
  - username: frassmith
    instance: glenelg.social
-# - username: jekyll2
-#   instance: example.com
+ - username: literaverse
+   instance: glenelg.social
+ - username: bardinsults
+   instance: glenelg.social
+ - username: recibot
+   instance: glenelg.social
 
 google_analytics: UA-104076338-1
 
