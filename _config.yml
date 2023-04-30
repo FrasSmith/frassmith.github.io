@@ -44,13 +44,7 @@ flickr_username: fras.shanghai
 # Mastodon instances
 mastodon:
  - username: frassmith
-   instance: glenelg.social
- - username: literaverse
-   instance: glenelg.social
- - username: bardinsults
-   instance: glenelg.social
- - username: recibot
-   instance: glenelg.social
+   instance: octodon.social
 
 google_analytics: UA-104076338-1
 
