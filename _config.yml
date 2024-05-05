@@ -35,7 +35,7 @@ rss: rss
 # dribbble_username: jekyll
 # facebook_username: FrasSmith
 flickr_username: fras.shanghai
-# instagram_username: jekyll
+instagram_username: FrasSmith
 # linkedin_username: FrasSmith
 # pinterest_username: jekyll
 # youtube_username: jekyll
@@ -44,7 +44,7 @@ flickr_username: fras.shanghai
 # Mastodon instances
 mastodon:
  - username: frassmith
-   instance: octodon.social
+   instance: fosstodon.org
 
 google_analytics: UA-104076338-1
 
