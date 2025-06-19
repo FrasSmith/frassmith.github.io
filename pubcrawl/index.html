@@ -40,12 +40,6 @@ map.on('load', () => {
             getSpoke(pubs);
         });
 
-        // use mouse location
-        // map.on('mousemove', (e) => {
-        //     const newPoint = turf.point([e.lngLat.lng, e.lngLat.lat]);
-        //     buildSpoke(pubs, newPoint);
-        // });
-
         // use map center
         map.on('move', () => {
             getSpoke(pubs);
