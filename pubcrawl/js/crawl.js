@@ -12,6 +12,10 @@ const map = new mapboxgl.Map({
   maxZoom: 19,
 });
 
+// ☑️ Enable scroll zoom if it's not already
+map.scrollZoom.enable({ around: 'pointer' });
+map.scrollZoom.setWheelZoomRate(1 / 150);
+
 map.on("load", () => {
   let pubs;
 
