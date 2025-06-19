@@ -26,7 +26,8 @@ const map = new mapboxgl.Map({
     center: [-0.67044, 51.9873136],
     zoom: 8,
     projection: 'globe',
-    maxZoom: 16
+    minZoom:2,
+    maxZoom: 19
 });
 
 map.on('load', () => {
