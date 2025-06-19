@@ -1,9 +1,12 @@
 let initLoad = true;
+let pubIndex;
 
+// Mapbox Access
 mapboxgl.accessToken = "pk.eyJ1IjoiZ2xlbmVsZyIsImEiOiJjbWMzNjllcDYwMWMwMmlzY2FpdW9lZjQ4In0.hDeP81vWmyZqhTMr_e7LpQ";
+
+// Init map
 const map = new mapboxgl.Map({
   container: "map",
-  //style: 'https://api.maptiler.com/maps/basic/style.json?key=1HCKO0pQuPEfNXXzGgSM',
   style: "mapbox://styles/mapbox/bright-v8",
   center: [-0.67044, 51.9873136],
   zoom: 8,
@@ -12,19 +15,21 @@ const map = new mapboxgl.Map({
   maxZoom: 19,
 });
 
-// ☑️ Enable scroll zoom if it's not already
-map.scrollZoom.enable({ around: 'pointer' });
-map.scrollZoom.setWheelZoomRate(1 / 150);
+// Enable scroll zoom around mouse pointer
+map.scrollZoom.enable({ around: "pointer" });
+map.scrollZoom.setWheelZoomRate(1 / 180);
+
+let pubs; // raw GeoJSON
 
 map.on("load", () => {
-  let pubs;
-
   map.once("idle", () => {
-    d3.json("./data/pub-pts.json", function (d) {
-      pubs = d;
-      getSpoke(pubs);
+    d3.json("./data/pub-pts.json", function (data) {
+      pubs = data;
+      buildIndex(pubs); // 🔍 index for fast querying
+      getSpoke();
     });
 
+    // Throttle move events
     // use map center
     map.on("move", () => {
       getSpoke(pubs);
@@ -32,79 +37,79 @@ map.on("load", () => {
   });
 });
 
-function getSpoke(pubs) {
-  const center = map.getCenter();
-  const newPoint = turf.point([center.lng, center.lat]);
-  buildSpoke(pubs, newPoint);
+let pubTree;
+
+function buildIndex(pubsGeoJSON) {
+  pubTree = new RBush();
+
+  const items = pubsGeoJSON.features.map((feature, index) => {
+    const [lon, lat] = feature.geometry.coordinates;
+    return {
+      minX: lon,
+      minY: lat,
+      maxX: lon,
+      maxY: lat,
+      feature: feature, // store entire feature
+    };
+  });
+
+  pubTree.load(items);
 }
 
-function buildSpoke(pubs, point) {
-  let nearestpubs = turf.featureCollection([]);
-  let nearestAirportLines = turf.featureCollection([]);
-  let cleanedpubs = JSON.parse(JSON.stringify(pubs));
+/** Main action: find nearest and update layers */
+function getSpoke() {
+  const center = map.getCenter();
+  const [lng, lat] = [center.lng, center.lat];
 
-  for (let i = 1; i <= 5; i++) {
-    const nearest = turf.nearestPoint(point, cleanedpubs);
-    const startLng = point.geometry.coordinates[0];
-    const endLng = nearest.geometry.coordinates[0];
+  const nearest = pubTree
+    .all()
+    .map((f) => ({ feature: f.feature, dist: distance(lng, lat, f.minX, f.minY) }))
+    .sort((a, b) => a.dist - b.dist)
+    .slice(0, 8)
+    .map((f) => f.feature);
 
-    if (startLng >= 90 && endLng <= -90) {
-      nearest.geometry.coordinates[0] += 360;
-    } else if (startLng <= -90 && endLng >= 90) {
-      nearest.geometry.coordinates[0] -= 360;
-    }
+  const nearestpubs = turf.featureCollection(nearest);
 
-    const nearestLine = turf.lineString([point.geometry.coordinates, nearest.geometry.coordinates]);
-
-    nearestpubs.features.push(nearest);
-    nearestAirportLines.features.push(nearestLine);
-
-    const index = cleanedpubs.features.findIndex((n) => n.id === nearest.id);
-    if (index !== -1) {
-      cleanedpubs.features.splice(index, 1);
-    }
-  }
+  const lines = turf.featureCollection(
+    nearest.map((pub) => {
+      return turf.lineString([[lng, lat], pub.geometry.coordinates]);
+    }),
+  );
 
   if (initLoad) {
-    addLayers(pubs, nearestpubs, nearestAirportLines);
+    addLayers(pubs, nearestpubs, lines);
+    initLoad = false;
   } else {
     map.getSource("newPoint").setData(nearestpubs);
-    map.getSource("newLine").setData(nearestAirportLines);
+    map.getSource("newLine").setData(lines);
   }
 }
 
+function distance(lon1, lat1, lon2, lat2) {
+  // Quick haversine approximation (in degrees — NOT accurate for large distances)
+  const dx = lon1 - lon2;
+  const dy = lat1 - lat2;
+  return dx * dx + dy * dy;
+}
+/** Add all Mapbox layers once */
 function addLayers(pubs, nearest, route) {
-  initLoad = false;
+  map.addSource("points", { type: "geojson", data: pubs });
+  map.addSource("newPoint", { type: "geojson", data: nearest });
+  map.addSource("newLine", { type: "geojson", data: route });
 
-  map.addSource("points", {
-    type: "geojson",
-    data: pubs,
-  });
-
-  map.addSource("newPoint", {
-    type: "geojson",
-    data: nearest,
-  });
-
-  map.addSource("newLine", {
-    type: "geojson",
-    data: route,
-  });
-
+  // Spoke lines
   map.addLayer({
     id: "routeLayer",
     type: "line",
     source: "newLine",
-    layout: {
-      "line-join": "round",
-      "line-cap": "round",
-    },
+    layout: { "line-join": "round", "line-cap": "round" },
     paint: {
       "line-color": "#6699CC",
       "line-width": ["interpolate", ["linear"], ["zoom"], 0, 0.1, 3, 3],
     },
   });
 
+  // All pub points
   map.addLayer({
     id: "globe-points",
     type: "circle",
@@ -117,14 +122,27 @@ function addLayers(pubs, nearest, route) {
     },
   });
 
+  // Nearest pub points
+  map.addLayer({
+    id: "globe-newPoint",
+    type: "circle",
+    source: "newPoint",
+    paint: {
+      "circle-radius": ["interpolate", ["linear"], ["zoom"], 0, 0.25, 3, 4],
+      "circle-opacity": 1,
+      "circle-blur": 0,
+      "circle-color": "#035690",
+    },
+  });
+
   map.addLayer({
     id: "globe-points-hitbox",
     type: "circle",
     source: "points",
     paint: {
       "circle-radius": 20,
-      "circle-opacity": 0,
-    },
+      "circle-opacity": 0
+    }
   });
 
   // Add hover cursor
@@ -148,17 +166,5 @@ function addLayers(pubs, nearest, route) {
     `;
 
     new mapboxgl.Popup().setLngLat(feature.geometry.coordinates).setHTML(popupHtml).addTo(map);
-  });
-
-  map.addLayer({
-    id: "globe-newPoint",
-    type: "circle",
-    source: "newPoint",
-    paint: {
-      "circle-radius": ["interpolate", ["linear"], ["zoom"], 0, 0.25, 3, 4],
-      "circle-opacity": 1,
-      "circle-blur": 0,
-      "circle-color": "#035690",
-    },
   });
 }
