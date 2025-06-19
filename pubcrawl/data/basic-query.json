@@ -1,0 +1,14 @@
+// Return a single Lat/Long for every pub in the UK
+
+[out:json][timeout:120];
+
+// Fetch the area of the United Kingdom
+{{geocodeArea:United Kingdom}}->.uk;
+
+// Retrieve all nodes, ways, and relations with amenity=pub within the UK area
+(
+  nwr["amenity"="pub"](area.uk);
+);
+
+// Use 'center' to display geometry for ways and relations
+out center;
