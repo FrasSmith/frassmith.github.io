@@ -113,30 +113,37 @@ function addLayers(pubs, nearest, route) {
     },
   });
 
-  // Add hover cursor
-  map.on('mouseenter', 'globe-points', () => {
-    map.getCanvas().style.cursor = 'pointer';
+  map.addLayer({
+    id: "globe-points-hitbox",
+    type: "circle",
+    source: "points",
+    paint: {
+      "circle-radius": 20,
+      "circle-opacity": 0,
+    },
   });
 
-  map.on('mouseleave', 'globe-points', () => {
-    map.getCanvas().style.cursor = '';
+  // Add hover cursor
+  map.on("mouseenter", "globe-points-hitbox", () => {
+    map.getCanvas().style.cursor = "pointer";
+  });
+
+  map.on("mouseleave", "globe-points-hitbox", () => {
+    map.getCanvas().style.cursor = "";
   });
 
   // Add click popup to all pubs
-  map.on('click', 'globe-points', (e) => {
+  map.on("click", "globe-points-hitbox", (e) => {
     const feature = e.features[0];
 
     const popupHtml = `
-      <strong>${feature.properties.name || 'Pub'}</strong><br/>
-      Real Ale: ${feature.properties.real_ale || 'unknown'}<br/>
-      CAMRA: ${feature.properties.camra || 'unknown'}<br/>
-      Website: <a href=${feature.properties.website|| '#'}>Link</a><br/>
+      <strong>${feature.properties.name || "Pub"}</strong><br/>
+      Real Ale: ${feature.properties.real_ale || "unknown"}<br/>
+      CAMRA: ${feature.properties.camra || "unknown"}<br/>
+      Website: <a href=${feature.properties.website || "#"}>Link</a><br/>
     `;
 
-    new mapboxgl.Popup()
-      .setLngLat(feature.geometry.coordinates)
-      .setHTML(popupHtml)
-      .addTo(map);
+    new mapboxgl.Popup().setLngLat(feature.geometry.coordinates).setHTML(popupHtml).addTo(map);
   });
 
   map.addLayer({
