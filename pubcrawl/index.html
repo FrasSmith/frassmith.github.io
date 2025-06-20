@@ -22,7 +22,8 @@
                 width: 100%;
             }
             #resetBearingBtn,
-            #locateMeBtn {
+            #locateMeBtn,
+            #infoBtn {
               position: absolute;
               right: 10px;
               width: 44px;
@@ -41,7 +42,8 @@
             }
 
             #resetBearingBtn:hover,
-            #locateMeBtn:hover {
+            #locateMeBtn:hover,
+            #infoBtn:hover {
               background-color: rgba(255, 255, 255, 0.7);
             }
 
@@ -51,6 +53,10 @@
 
             #locateMeBtn {
               top: 64px; /* stack below the first button with spacing */
+            }
+
+            #infoBtn {
+              top: 122px; /* stack below the second button with spacing */
             }
 
             .north-arrow {
@@ -66,29 +72,6 @@
               stroke: black;
               stroke-width: 2;
               fill: none;
-            }
-
-            #infoBtn {
-              position: absolute;
-              bottom: 10px;
-              right: 10px;
-              z-index: 10;
-              background-color: rgba(255, 255, 255, 0.8);
-              border: 1px solid #ccc;
-              width: 44px;
-              height: 44px;
-              border-radius: 50%;
-              cursor: pointer;
-              box-shadow: 0 0 5px rgba(0,0,0,0.15);
-              padding: 0;
-              display: flex;
-              align-items: center;
-              justify-content: center;
-              transition: background-color 0.2s ease;
-            }
-
-            #infoBtn:hover {
-              background-color: rgba(255, 255, 255, 1);
             }
 
             .info-icon {
