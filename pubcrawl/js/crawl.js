@@ -19,6 +19,14 @@ const map = new mapboxgl.Map({
 map.scrollZoom.enable({ around: "pointer" });
 map.scrollZoom.setWheelZoomRate(1 / 180);
 
+document.getElementById("resetBearingBtn").addEventListener("click", () => {
+  map.easeTo({
+    bearing: 0,
+    pitch: 0, // optional: reset tilt
+    duration: 1000
+  });
+});
+
 let pubs; // raw GeoJSON
 
 map.on("load", () => {
