@@ -28,6 +28,7 @@ document.getElementById("resetBearingBtn").addEventListener("click", () => {
 });
 
 document.getElementById("locateMeBtn").addEventListener("click", () => {
+
   if ("geolocation" in navigator) {
     navigator.geolocation.getCurrentPosition(
       (position) => {
@@ -49,6 +50,33 @@ document.getElementById("locateMeBtn").addEventListener("click", () => {
   } else {
     alert("Geolocation is not supported by your browser.");
   }
+});
+
+document.getElementById("infoBtn").addEventListener("click", () => {
+  // Create popup content (HTML allowed)
+  const htmlContent = `
+    <div style="max-width: 250px; font-family: sans-serif;">
+      <h3>Welcome yo the Pub Crawler</h3>
+      <p>This interactive map shows the 8 pubs closest to the center of the map. Drag it to see what happens.</p>
+
+      <p> You can: </p>
+      <ul>
+        <li>Reset orientation (top right)</li>
+        <li>Jump to your location (if your browser supports it)</li>
+        <li>View this info panel</li>
+      </ul>
+
+      <p>Based on an original site by Alastair Rae, <a href=https://alasdairrae.github.io/steakbakespider/>Steak Bake Spider</a></p>
+    </div>
+  `;
+
+  // Use current map center to anchor the popup
+  const center = map.getCenter();
+
+  new mapboxgl.Popup({ closeOnClick: true })
+    .setLngLat([center.lng, center.lat])
+    .setHTML(htmlContent)
+    .addTo(map);
 });
 
 let pubs; // raw GeoJSON
