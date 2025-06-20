@@ -21,10 +21,46 @@
                 bottom: 0;
                 width: 100%;
             }
+            #resetBearingBtn {
+              position: absolute;
+              top: 10px;
+              right: 10px;
+              z-index: 10;
+              background-color: rgba(255, 255, 255, 0.5); /* semi-transparent */
+              border: 1px solid #ccc;
+              width: 44px;
+              height: 44px;
+              border-radius: 50%;
+              cursor: pointer;
+              box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+              padding: 0;
+              display: flex;
+              align-items: center; /* center vertically */
+              justify-content: center; /* center horizontally */
+              transition: background-color 0.2s ease;
+            }
+
+            #resetBearingBtn:hover {
+              background-color: rgba(255, 255, 255, 8);
+            }
+
+            .north-arrow {
+              padding-top: 20px;
+              width: 42px;
+              height: 42px;
+              fill: black;
+            }
         </style>
     </head>
     <body>
         <div id="map"></div>
+
+        <button id="resetBearingBtn" title="Reset North">
+          <svg viewBox="0 0 24 24" class="north-arrow">
+            <path d="M12 2 L16 10 H8 Z" />
+          </svg>
+        </button>
+        <script src="./js/crawl.js"></script>
     </body>
-    <script src="./js/crawl.js"></script>
+
 </html>
