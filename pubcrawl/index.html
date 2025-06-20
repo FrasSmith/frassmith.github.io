@@ -21,27 +21,36 @@
                 bottom: 0;
                 width: 100%;
             }
-            #resetBearingBtn {
+            #resetBearingBtn,
+            #locateMeBtn {
               position: absolute;
-              top: 10px;
               right: 10px;
-              z-index: 10;
-              background-color: rgba(255, 255, 255, 0.5); /* semi-transparent */
-              border: 1px solid #ccc;
               width: 44px;
               height: 44px;
               border-radius: 50%;
+              background-color: rgba(255, 255, 255, 0.5);
+              border: 1px solid #ccc;
               cursor: pointer;
               box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
               padding: 0;
               display: flex;
-              align-items: center; /* center vertically */
-              justify-content: center; /* center horizontally */
+              align-items: center;
+              justify-content: center;
               transition: background-color 0.2s ease;
+              z-index: 10;
             }
 
-            #resetBearingBtn:hover {
-              background-color: rgba(255, 255, 255, 8);
+            #resetBearingBtn:hover,
+            #locateMeBtn:hover {
+              background-color: rgba(255, 255, 255, 0.7);
+            }
+
+            #resetBearingBtn {
+              top: 10px;
+            }
+
+            #locateMeBtn {
+              top: 64px; /* stack below the first button with spacing */
             }
 
             .north-arrow {
@@ -49,6 +58,14 @@
               width: 42px;
               height: 42px;
               fill: black;
+            }
+
+            .location-icon {
+              width: 20px;
+              height: 20px;
+              stroke: black;
+              stroke-width: 2;
+              fill: none;
             }
         </style>
     </head>
@@ -58,6 +75,16 @@
         <button id="resetBearingBtn" title="Reset North">
           <svg viewBox="0 0 24 24" class="north-arrow">
             <path d="M12 2 L16 10 H8 Z" />
+          </svg>
+        </button>
+        <!-- Recenter on location -->
+        <button id="locateMeBtn" title="Recenter on My Location">
+          <svg viewBox="0 0 24 24" class="location-icon">
+            <circle cx="12" cy="12" r="4" />
+            <line x1="12" y1="2" x2="12" y2="6" />
+            <line x1="12" y1="18" x2="12" y2="22" />
+            <line x1="2" y1="12" x2="6" y2="12" />
+            <line x1="18" y1="12" x2="22" y2="12" />
           </svg>
         </button>
         <script src="./js/crawl.js"></script>

@@ -23,8 +23,32 @@ document.getElementById("resetBearingBtn").addEventListener("click", () => {
   map.easeTo({
     bearing: 0,
     pitch: 0, // optional: reset tilt
-    duration: 1000
+    duration: 1000,
   });
+});
+
+document.getElementById("locateMeBtn").addEventListener("click", () => {
+  if ("geolocation" in navigator) {
+    navigator.geolocation.getCurrentPosition(
+      (position) => {
+        const { latitude, longitude } = position.coords;
+        map.easeTo({
+          center: [longitude, latitude],
+          duration: 1000,
+          zoom: 14, // Adjust zoom to your preference
+        });
+      },
+      (err) => {
+        alert("Unable to retrieve your location.");
+        console.error(err);
+      },
+      {
+        enableHighAccuracy: true,
+      },
+    );
+  } else {
+    alert("Geolocation is not supported by your browser.");
+  }
 });
 
 let pubs; // raw GeoJSON
@@ -149,8 +173,8 @@ function addLayers(pubs, nearest, route) {
     source: "points",
     paint: {
       "circle-radius": 20,
-      "circle-opacity": 0
-    }
+      "circle-opacity": 0,
+    },
   });
 
   // Add hover cursor
