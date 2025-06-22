@@ -1,0 +1,115 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Cafe Moi</title>
+        <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+        <link href="https://api.mapbox.com/mapbox-gl-js/v2.9.0-beta.2/mapbox-gl.css" rel="stylesheet" />
+        <script src="https://api.mapbox.com/mapbox-gl-js/v2.9.0-beta.2/mapbox-gl.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/rbush@3.0.1/rbush.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6.5.0/turf.min.js"></script>
+        <script src="https://unpkg.com/turf-rbush/build/turf-rbush.min.js"></script>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <style>
+            body {
+                margin: 0;
+                padding: 0;
+            }
+            #map {
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                width: 100%;
+            }
+            #resetBearingBtn,
+            #locateMeBtn,
+            #infoBtn {
+              position: absolute;
+              right: 10px;
+              width: 44px;
+              height: 44px;
+              border-radius: 50%;
+              background-color: rgba(255, 255, 255, 0.5);
+              border: 1px solid #ccc;
+              cursor: pointer;
+              box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+              padding: 0;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              transition: background-color 0.2s ease;
+              z-index: 10;
+            }
+
+            #resetBearingBtn:hover,
+            #locateMeBtn:hover,
+            #infoBtn:hover {
+              background-color: rgba(255, 255, 255, 0.7);
+            }
+
+            #resetBearingBtn {
+              top: 10px;
+            }
+
+            #locateMeBtn {
+              top: 64px; /* stack below the first button with spacing */
+            }
+
+            #infoBtn {
+              top: 122px; /* stack below the second button with spacing */
+            }
+
+            .north-arrow {
+              padding-top: 20px;
+              width: 42px;
+              height: 42px;
+              fill: black;
+            }
+
+            .location-icon {
+              width: 20px;
+              height: 20px;
+              stroke: black;
+              stroke-width: 2;
+              fill: none;
+            }
+
+            .info-icon {
+              width: 20px;
+              height: 20px;
+              fill: none;
+              stroke: black;
+              stroke-width: 2;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="map"></div>
+
+        <button id="resetBearingBtn" title="Reset North">
+          <svg viewBox="0 0 24 24" class="north-arrow">
+            <path d="M12 2 L16 10 H8 Z" />
+          </svg>
+        </button>
+        <!-- Recenter on location -->
+        <button id="locateMeBtn" title="Recenter on My Location">
+          <svg viewBox="0 0 24 24" class="location-icon">
+            <circle cx="12" cy="12" r="4" />
+            <line x1="12" y1="2" x2="12" y2="6" />
+            <line x1="12" y1="18" x2="12" y2="22" />
+            <line x1="2" y1="12" x2="6" y2="12" />
+            <line x1="18" y1="12" x2="22" y2="12" />
+          </svg>
+        </button>
+        <!-- Info Button (bottom right) -->
+        <button id="infoBtn" title="Information">
+          <svg viewBox="0 0 24 24" class="info-icon">
+            <circle cx="12" cy="12" r="10" stroke="black" stroke-width="2" fill="none"/>
+            <line x1="12" y1="8" x2="12" y2="11" stroke="black" stroke-width="2"/>
+            <circle cx="12" cy="16" r="1" fill="black"/>
+          </svg>
+        </button>
+        <script src="./js/crawl.js"></script>
+    </body>
+
+</html>
