@@ -55,8 +55,8 @@ document.getElementById("infoBtn").addEventListener("click", () => {
   // Create popup content (HTML allowed)
   const htmlContent = `
     <div style="max-width: 250px; font-family: sans-serif;">
-      <h3>Welcome to the Charger Finder</h3>
-      <p>This interactive map shows the 8 EV chargers closest to the center of the map. Drag it to see what happens.</p>
+      <h3>Cafe Moi: The Cafe Finder</h3>
+      <p>This interactive map shows the 8 cafes closest to the centre of the map. Drag it to see what happens.</p>
 
       <p>You can:
         <ul>
