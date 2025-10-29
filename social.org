@@ -21,3 +21,12 @@ Hello Org Social!
 :END:
 
 I'm guessing I just need to save this to my github webpage for it to be available.
+
+**
+:PROPERTIES:
+:ID: 2025-10-29T12:34:28+00:00
+:CLIENT: org-social-rs
+:REPLY_TO: social.org#2025-10-29T12:12:30+00:00
+:END:
+
+Indeed I did. Extremely easy to configure.
