@@ -3,8 +3,8 @@
 #+DESCRIPTION: I'm a software developer and amatuer photographer.
 #+AVATAR: https://glenelg.io/assets/avatar.jpg
 #+LINK: https://glenelg.io
-#+FOLLOW: http://foo.org/social.org
-#+FOLLOW: https://jane.com/social.org
+#+FOLLOW: https://haiverin.scot/social.org
+#+FOLLOW: https://cmdln.org/social.org
 
 * Posts
 **
