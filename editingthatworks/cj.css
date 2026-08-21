@@ -1,0 +1,228 @@
+/*
+  cj.css — changelog (FS 2026-08-19)
+
+  - Modernized and cleaned stylesheet.
+  - Added CSS variables for colours and fonts for easier theming.
+  - Device-driven responsive rules: use (pointer: coarse) and (hover: none) to target touch devices.
+  - Fallback width-based collapse at max-width:800px to support older browsers. (Reverted now that mobile version implemented)
+  - Reordered stacked layout so aside appears between nav and main on mobile/narrow viewports.
+  - Made aside images expand to 100% width on stacked layouts; added image helpers.
+  - Added accessible skip-link and visible focus styles for keyboard users.
+*/
+
+:root {
+    --bg: #fffef5;
+    --brand: #005980;
+    --accent: #0ab0e0;
+    --muted: #666666;
+    --link: #064771;
+    --font-sans: Arial, Helvetica, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+html,
+body {
+    height: 100%;
+}
+body {
+    margin: 0;
+    font-family: var(--font-sans);
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000;
+    background-color: var(--bg);
+}
+
+/* Skip link for keyboard users */
+.skip-link {
+    position: absolute;
+    left: -999px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+.skip-link:focus {
+    left: 1rem;
+    top: 1rem;
+    width: auto;
+    height: auto;
+    padding: 0.5rem 0.75rem;
+    background: #fff;
+    border: 2px solid var(--brand);
+    z-index: 1000;
+}
+
+.layout {
+    display: flex;
+    gap: 1rem;
+    width: 100%;
+    max-width: none; /* allow layout to span full browser width on desktop */
+    margin: 0; /* no auto-centering: full-width design */
+    padding: 1rem;
+}
+
+nav {
+    flex: 0 0 220px;
+}
+main {
+    flex: 1 1 60%;
+    min-width: 280px;
+}
+aside {
+    flex: 0 0 220px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+nav li {
+    margin: 0.35rem 0;
+}
+nav a {
+    color: var(--link);
+    text-decoration: underline;
+}
+
+.logo {
+    color: var(--accent);
+    font-size: 1.25rem;
+    margin: 0 0 0.5rem 0;
+}
+
+h1 {
+    font-size: 1.6rem;
+    color: var(--brand);
+    margin: 0 0 0.5rem 0;
+    font-weight: normal;
+}
+h2 {
+    font-size: 1.15rem;
+    color: var(--brand);
+    margin-top: 1rem;
+    margin-bottom: 0.25rem;
+}
+h3 {
+    font-size: 1rem;
+    color: var(--brand);
+    margin-bottom: 0.25rem;
+}
+
+p {
+    margin: 0 0 1rem 0;
+}
+
+/* Footer */
+.site-footer {
+    border-top: 1px solid #e6e6e6;
+    padding: 1rem;
+    margin-top: 2rem;
+    color: var(--muted);
+}
+.site-footer a.link_copyright {
+    color: var(--muted);
+    text-decoration: none;
+}
+
+/* Focus styles */
+a:focus,
+button:focus,
+input:focus,
+textarea:focus {
+    outline: 3px solid #bee9ff;
+    outline-offset: 2px;
+}
+
+/* Responsive: prefer device interaction characteristics over raw CSS width */
+/* Touch-first: devices with coarse pointers (most phones/tablets) and no hover */
+@media (pointer: coarse), (hover: none) {
+    .layout {
+        flex-direction: column;
+        padding: 1rem;
+        align-items: stretch;
+    }
+    /* On touch devices we want nav, then the visual (aside), then the page content */
+    nav {
+        order: 0;
+        width: 100%;
+    }
+    aside {
+        order: 1;
+        width: 100%;
+        flex-basis: auto;
+    }
+    main {
+        order: 2;
+        width: 100%;
+    }
+    /* make sure images inside the aside expand to full width on small devices */
+    aside img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+}
+
+/* Fallback: also collapse layout on narrow viewports */
+@media (max-width: 800px) {
+    .layout {
+        flex-direction: column;
+        padding: 1rem;
+        align-items: stretch;
+    }
+    /* ensure the visual (aside) appears between nav and main on narrow viewports */
+    nav {
+        order: 0;
+        width: 100%;
+    }
+    aside {
+        order: 1;
+        width: 100%;
+        flex-basis: auto;
+    }
+    main {
+        order: 2;
+        width: 100%;
+    }
+    aside img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+}
+
+/* Ensure the three-column desktop layout aligns items to the top so the aside appears at the top-right */
+@media (min-width: 801px) {
+    .layout {
+        align-items: flex-start;
+    }
+    nav,
+    aside {
+        flex-shrink: 0;
+    }
+    nav {
+        flex: 0 0 220px;
+    }
+    aside {
+        flex: 0 0 220px;
+    }
+    main {
+        flex: 1 1 60%;
+    }
+}
+
+/* High-resolution (Retina) devices: adjust image behavior if needed */
+@media (min-resolution: 2dppx) {
+    /* example: increase default image sharpness handling; specific images can be served via srcset */
+}
+
+/* Image helpers */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
