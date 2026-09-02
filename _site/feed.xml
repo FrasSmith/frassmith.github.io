@@ -1,5 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-07T08:47:09+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">glenelg.io</title><subtitle>Glenelg.io, a site set aside for writing, sharing, grumbling and (maybe) ranting. I&apos;m Fraser Smith, a freelance developer and amateur photographer living in Shanghai.
-</subtitle><author><name>Fraser Smith</name></author><entry><title type="html">Test Post</title><link href="http://localhost:4000/2024/05/05/test-post" rel="alternate" type="text/html" title="Test Post" /><published>2024-05-05T10:46:00+01:00</published><updated>2024-05-05T10:46:00+01:00</updated><id>http://localhost:4000/2024/05/05/test-post</id><content type="html" xml:base="http://localhost:4000/2024/05/05/test-post"><![CDATA[<p>Testing the brid.gy federation</p>]]></content><author><name>Fraser Smith</name></author><category term="tests" /><category term="federation" /><summary type="html"><![CDATA[Testing the brid.gy federation]]></summary></entry><entry><title type="html">“Arch is for Pros”</title><link href="http://localhost:4000/2021/04/07/arch-is-for-pros" rel="alternate" type="text/html" title="“Arch is for Pros”" /><published>2021-04-07T08:01:00+01:00</published><updated>2021-04-07T08:01:00+01:00</updated><id>http://localhost:4000/2021/04/07/arch-is-for-pros</id><content type="html" xml:base="http://localhost:4000/2021/04/07/arch-is-for-pros"><![CDATA[<p><img src="/img/arch.jpg" alt="Arch Linux Logo" />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-09-02T11:00:16+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">glenelg.io</title><subtitle>Glenelg.io, a site set aside for writing, sharing, grumbling and (maybe) ranting. I&apos;m Fraser Smith, a freelance developer and amateur photographer living in Shanghai.
+</subtitle><author><name>Fraser Smith</name></author><entry><title type="html">Why does this post about “How to Lie with Statistics” perform so well?</title><link href="http://localhost:4000/2026/09/02/avoid-how-to-lie-with-statistics" rel="alternate" type="text/html" title="Why does this post about “How to Lie with Statistics” perform so well?" /><published>2026-09-02T08:01:00+01:00</published><updated>2026-09-02T08:01:00+01:00</updated><id>http://localhost:4000/2026/09/02/avoid-how-to-lie-with-statistics</id><content type="html" xml:base="http://localhost:4000/2026/09/02/avoid-how-to-lie-with-statistics"><![CDATA[<h2 id="the-problem">The Problem</h2>
+
+<p><img src="https://www.effortmark.co.uk/wp-content/uploads/2021/04/logo.png" alt="Effortmark (logo)" /></p>
+
+<p><em>Recently I’ve been working on the Effortmark website for its owner, Caroline Jarrett. One of Caroline’s questions was about the popularity of a single post on her site when compared to the rest of her posts</em>
+<!--more--></p>
+
+<p>As you can probably guess from the title, the post in question is (<a href="https://www.effortmark.co.uk/avoid-how-to-lie-with-statistics/">Why I no longer recommend “How to lie with statistics”</a>). I have some ideas…</p>
+
+<p>When discussing this question with Caroline one thing did seem to stand out, however, rather than just dive right in and state that it’s the cause of the popularity, I’m going to run a little experiment to see if my hypothesis is correct.</p>
+
+<p>This brief post is my experiment. In time, I will report my findings through updates to this post.</p>
+
+<h2 id="the-results">The Results</h2>
+
+<p>Watch this space.</p>]]></content><author><name>Fraser Smith</name></author><category term="seo" /><category term="research" /><category term="traffic" /><category term="statistics" /><summary type="html"><![CDATA[The Problem Recently I’ve been working on the Effortmark website for its owner, Caroline Jarrett. One of Caroline’s questions was about the popularity of a single post on her site when compared to the rest of her posts]]></summary></entry><entry><title type="html">“Arch is for Pros”</title><link href="http://localhost:4000/2021/04/07/arch-is-for-pros" rel="alternate" type="text/html" title="“Arch is for Pros”" /><published>2021-04-07T08:01:00+01:00</published><updated>2021-04-07T08:01:00+01:00</updated><id>http://localhost:4000/2021/04/07/arch-is-for-pros</id><content type="html" xml:base="http://localhost:4000/2021/04/07/arch-is-for-pros"><![CDATA[<p><img src="/img/arch.jpg" alt="Arch Linux Logo" />
 <em>Recently, I’ve taken to scanning a selection of subreddits on reddit.com covering my interests in tech, photography etc. Today, on a Linux subreddit I saw the comment that titles this post, “Arch is for Pros”. The Arch, in this case is <a href="https://archlinux.org/">Arch Linux</a>, a notoriously tricky to setup Linux distro for those who like to live on the bleeding edge of technology (and Linux YouTubers). However, it got me thinking about the mis-appropriation and mis-use of the term “Pro”. Here are my thoughts on the matter.</em>
 <!--more--></p>
 
@@ -41,6 +56,88 @@
 <em>A gallery of images from my One Lens Challenge in November 2020. All images taken with Canon EOS-M5 with the 7Artisans 35mm f1.2 lens.</em>
 <!--more--></p>
 <div class="image-gallery">
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
   
     
   
@@ -341,6 +438,24 @@
   
     
   
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
   </div>]]></content><author><name>Fraser Smith</name></author><category term="OneLensChallenge" /><category term="Canon" /><category term="EOS-M5" /><category term="7Artisans" /><category term="Manual Lens" /><summary type="html"><![CDATA[A gallery of images from my One Lens Challenge in November 2020. All images taken with Canon EOS-M5 with the 7Artisans 35mm f1.2 lens.]]></summary></entry><entry><title type="html">The ONE LENS Challenge</title><link href="http://localhost:4000/2020/11/03/one-lens-challenge" rel="alternate" type="text/html" title="The ONE LENS Challenge" /><published>2020-11-03T19:06:00+00:00</published><updated>2020-11-03T19:06:00+00:00</updated><id>http://localhost:4000/2020/11/03/one-lens-challenge</id><content type="html" xml:base="http://localhost:4000/2020/11/03/one-lens-challenge"><![CDATA[<p><img src="/img/lens.jpg" alt="EOS-M5 7Artisans 35mm f1.2" /></p>
 
 <p><em>A few days ago, I watched <a href="https://www.youtube.com/watch?v=bKMaEAxPskU">this post on YouTube</a>. It seemed like a fun idea so I decided to give it a try. (If you didn’t have time to watch the video, the assignment is to use a single prime lens for all of your personal photography for the month of November.)</em>
@@ -453,7 +568,7 @@ Unseen in winter. <br /></p>
 
 <p>The second Terragen Intercontinental Conference took place a year later in Los Angeles and coincided with SIGGRAPH2001. This one was truly intercontinental with attendees from the UK, the USA, and New Zealand. Matt (living in LA by this time) was there as was Terragen’s Macintosh coder, Jo, from New Zealand, and Ken Musgrave who was promoting his new product, “Mojoworld” that year. Tim and I still managed to grab a day off From the hectic foot pounding schedule of the exhibition halls and head out to Joshua Tree National Park with our C2500Ls.</p>
 
-<p><img src="/img/2500-1.jpg" alt="2500-1" class="pic" /><img src="/img/2500-2.jpg" alt="2500-2" class="pic" /><img src="/img/2500-3.jpg" alt="2500-3" class="pic" /><img src="/img/2500-4.jpg" alt="2500-4" class="pic" /><img src="/img/2500-5.jpg" alt="2500-5" class="pic" /><img src="/img/2500-6.jpg" alt="2500-6" class="pic" /></p>]]></content><author><name>Fraser Smith</name></author><category term="cameras" /><category term="photography" /><category term="gas" /><category term="autobiographical" /><category term="Olympus C2500L" /><category term="Olympus" /><category term="Seattle" /><category term="Washington" /><category term="Terragen" /><category term="software" /><summary type="html"><![CDATA[It’s hard to believe that a hobby program from a student at York University would be the catalyst to get me back into photography, but that’s exactly what happened in the late nineties. I cannot deny that, photographically, I’d lost my way at that time. In career terms, things were going well, I had left the offshore life in 1994 after a year posted to China and started working in the newspaper industry as an advertising systems engineer. On the personal front, however, it was pretty awful. And that is all that I’m going to say on that subject. It’s water under the bridge.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22feature%22=%3E%22/img/terragen.jpg%22%7D" /><media:content medium="image" url="http://localhost:4000/%7B%22feature%22=%3E%22/img/terragen.jpg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Life Under Lockdown 6</title><link href="http://localhost:4000/2020/03/25/life-under-lockdown-6" rel="alternate" type="text/html" title="Life Under Lockdown 6" /><published>2020-03-25T18:30:00+00:00</published><updated>2020-03-25T18:30:00+00:00</updated><id>http://localhost:4000/2020/03/25/life-under-lockdown-6</id><content type="html" xml:base="http://localhost:4000/2020/03/25/life-under-lockdown-6"><![CDATA[<p><img src="/img/empty-road2.jpg" alt="An empty road in Shanghai" /></p>
+<p><img src="/img/2500-1.jpg" alt="2500-1" class="pic" /><img src="/img/2500-2.jpg" alt="2500-2" class="pic" /><img src="/img/2500-3.jpg" alt="2500-3" class="pic" /><img src="/img/2500-4.jpg" alt="2500-4" class="pic" /><img src="/img/2500-5.jpg" alt="2500-5" class="pic" /><img src="/img/2500-6.jpg" alt="2500-6" class="pic" /></p>]]></content><author><name>Fraser Smith</name></author><category term="cameras" /><category term="photography" /><category term="gas" /><category term="autobiographical" /><category term="Olympus C2500L" /><category term="Olympus" /><category term="Seattle" /><category term="Washington" /><category term="Terragen" /><category term="software" /><summary type="html"><![CDATA[It’s hard to believe that a hobby program from a student at York University would be the catalyst to get me back into photography, but that’s exactly what happened in the late nineties. I cannot deny that, photographically, I’d lost my way at that time. In career terms, things were going well, I had left the offshore life in 1994 after a year posted to China and started working in the newspaper industry as an advertising systems engineer. On the personal front, however, it was pretty awful. And that is all that I’m going to say on that subject. It’s water under the bridge.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22feature%22%20=%3E%20%22/img/terragen.jpg%22%7D" /><media:content medium="image" url="http://localhost:4000/%7B%22feature%22%20=%3E%20%22/img/terragen.jpg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Life Under Lockdown 6</title><link href="http://localhost:4000/2020/03/25/life-under-lockdown-6" rel="alternate" type="text/html" title="Life Under Lockdown 6" /><published>2020-03-25T18:30:00+00:00</published><updated>2020-03-25T18:30:00+00:00</updated><id>http://localhost:4000/2020/03/25/life-under-lockdown-6</id><content type="html" xml:base="http://localhost:4000/2020/03/25/life-under-lockdown-6"><![CDATA[<p><img src="/img/empty-road2.jpg" alt="An empty road in Shanghai" /></p>
 
 <p>With most of the world seemingly under lockdown now, I didn’t think there was much scope for another “Life Under Lockdown” post. I was even toying with the idea of a new series, “life After Lockdown” based on the improvements to our situation here in Shanghai. However, events of the last weekend served as a reminder that, even if we’re not totally under lockdown, China is, and it’s getting stricter.
 <!--more--></p>

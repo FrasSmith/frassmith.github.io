@@ -11,6 +11,7 @@ summary: A friend of mine has asked me to investigate why her post about the boo
 ## The Problem
 
 <img src="https://www.effortmark.co.uk/wp-content/uploads/2021/04/logo.png" alt="Effortmark (logo)" />
+
 _Recently I've been working on the Effortmark website for its owner, Caroline Jarrett. One of Caroline's questions was about the popularity of a single post on her site when compared to the rest of her posts_
 <!--more-->
 
