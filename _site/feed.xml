@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-09-02T11:00:16+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">glenelg.io</title><subtitle>Glenelg.io, a site set aside for writing, sharing, grumbling and (maybe) ranting. I&apos;m Fraser Smith, a freelance developer and amateur photographer living in Shanghai.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-09-02T11:05:44+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">glenelg.io</title><subtitle>Glenelg.io, a site set aside for writing, sharing, grumbling and (maybe) ranting. I&apos;m Fraser Smith, a freelance developer and amateur photographer living in Shanghai.
 </subtitle><author><name>Fraser Smith</name></author><entry><title type="html">Why does this post about “How to Lie with Statistics” perform so well?</title><link href="http://localhost:4000/2026/09/02/avoid-how-to-lie-with-statistics" rel="alternate" type="text/html" title="Why does this post about “How to Lie with Statistics” perform so well?" /><published>2026-09-02T08:01:00+01:00</published><updated>2026-09-02T08:01:00+01:00</updated><id>http://localhost:4000/2026/09/02/avoid-how-to-lie-with-statistics</id><content type="html" xml:base="http://localhost:4000/2026/09/02/avoid-how-to-lie-with-statistics"><![CDATA[<h2 id="the-problem">The Problem</h2>
 
 <p><img src="https://www.effortmark.co.uk/wp-content/uploads/2021/04/logo.png" alt="Effortmark (logo)" /></p>
@@ -6,7 +6,7 @@
 <p><em>Recently I’ve been working on the Effortmark website for its owner, Caroline Jarrett. One of Caroline’s questions was about the popularity of a single post on her site when compared to the rest of her posts</em>
 <!--more--></p>
 
-<p>As you can probably guess from the title, the post in question is (<a href="https://www.effortmark.co.uk/avoid-how-to-lie-with-statistics/">Why I no longer recommend “How to lie with statistics”</a>). I have some ideas…</p>
+<p>As you can probably guess from the title, the post in question is <a href="https://www.effortmark.co.uk/avoid-how-to-lie-with-statistics/">Why I no longer recommend “How to lie with statistics”</a>. I have some ideas…</p>
 
 <p>When discussing this question with Caroline one thing did seem to stand out, however, rather than just dive right in and state that it’s the cause of the popularity, I’m going to run a little experiment to see if my hypothesis is correct.</p>
 
